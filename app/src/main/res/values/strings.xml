@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quick Blogger</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="pick_blog">Pick a Blog</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Sign in to continue</string>
+    <string name="server_client_id">1011439056702-pbb0sgm6vm27offe60ir95mj18h8bha7.apps.googleusercontent.com</string>
+    <string name="firebase_url">https://quick-blogger-1.firebaseio.com</string>
+
+
+    <string name="blogger_com">Sign up at blogger.com if you dont have an account</string>
+    <string name="goto_blogger_com">GOTO BLOGGER.COM</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">SIGN IN WITH GOOGLE</string>
+    <string name="action_sign_in_short">Sign in </string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>

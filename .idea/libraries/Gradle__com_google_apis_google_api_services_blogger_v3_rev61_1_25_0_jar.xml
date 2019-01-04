@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.apis:google-api-services-blogger:v3-rev61-1.25.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-blogger/v3-rev61-1.25.0/586863955cea8382e431a5c3807d56ee24388120/google-api-services-blogger-v3-rev61-1.25.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-blogger/v3-rev61-1.25.0/a47715c571494fbe640717b0e7e9f1efd0d5964c/google-api-services-blogger-v3-rev61-1.25.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
