@@ -18,7 +18,7 @@ You can also contribute.
 # Usage
 
 **Very Important**
-Make sure to read the [Blogger Documentation](https://developers.google.com/blogger/docs/3.0/) so as to know how to generate google-services.json file and some other things required for this project
+Make sure to read the [Blogger Documentation](https://developers.google.com/blogger/docs/3.0/) so as to know how to generate [google-services.json](https://developers.google.com/android/guides/google-services-plugin#adding_the_json_file) file and some other things required for this project
 
 1. Fork and clone.
 2. import into your IDE.
