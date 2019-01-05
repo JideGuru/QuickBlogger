@@ -127,6 +127,7 @@ public class FeedAdapter extends RecyclerView.Adapter<FeedViewHolder>{
             public void onClick(View view, int position, boolean isLongClick) {
                 if(!isLongClick){
                     Intent intent = new Intent (mContext, MainActivity.class);
+                    intent.putExtra("blogId", rootObject.getItems().get(position).id);
                     // browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(rootObject.getItems().get(position).getUrl()));
                     mContext.startActivity(intent);
                 }
