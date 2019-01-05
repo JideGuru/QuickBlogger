@@ -3407,95 +3407,96 @@ public final class R {
     public static final int background_material_dark=0x7f05001c;
     public static final int background_material_light=0x7f05001d;
     public static final int bg=0x7f05001e;
-    public static final int bright_foreground_disabled_material_dark=0x7f05001f;
-    public static final int bright_foreground_disabled_material_light=0x7f050020;
-    public static final int bright_foreground_inverse_material_dark=0x7f050021;
-    public static final int bright_foreground_inverse_material_light=0x7f050022;
-    public static final int bright_foreground_material_dark=0x7f050023;
-    public static final int bright_foreground_material_light=0x7f050024;
-    public static final int button_material_dark=0x7f050025;
-    public static final int button_material_light=0x7f050026;
-    public static final int cardview_dark_background=0x7f050027;
-    public static final int cardview_light_background=0x7f050028;
-    public static final int cardview_shadow_end_color=0x7f050029;
-    public static final int cardview_shadow_start_color=0x7f05002a;
-    public static final int colorAccent=0x7f05002b;
-    public static final int colorPrimary=0x7f05002c;
-    public static final int colorPrimaryDark=0x7f05002d;
-    public static final int common_google_signin_btn_text_dark=0x7f05002e;
-    public static final int common_google_signin_btn_text_dark_default=0x7f05002f;
-    public static final int common_google_signin_btn_text_dark_disabled=0x7f050030;
-    public static final int common_google_signin_btn_text_dark_focused=0x7f050031;
-    public static final int common_google_signin_btn_text_dark_pressed=0x7f050032;
-    public static final int common_google_signin_btn_text_light=0x7f050033;
-    public static final int common_google_signin_btn_text_light_default=0x7f050034;
-    public static final int common_google_signin_btn_text_light_disabled=0x7f050035;
-    public static final int common_google_signin_btn_text_light_focused=0x7f050036;
-    public static final int common_google_signin_btn_text_light_pressed=0x7f050037;
-    public static final int common_google_signin_btn_tint=0x7f050038;
-    public static final int design_bottom_navigation_shadow_color=0x7f050039;
-    public static final int design_error=0x7f05003a;
-    public static final int design_fab_shadow_end_color=0x7f05003b;
-    public static final int design_fab_shadow_mid_color=0x7f05003c;
-    public static final int design_fab_shadow_start_color=0x7f05003d;
-    public static final int design_fab_stroke_end_inner_color=0x7f05003e;
-    public static final int design_fab_stroke_end_outer_color=0x7f05003f;
-    public static final int design_fab_stroke_top_inner_color=0x7f050040;
-    public static final int design_fab_stroke_top_outer_color=0x7f050041;
-    public static final int design_snackbar_background_color=0x7f050042;
-    public static final int design_tint_password_toggle=0x7f050043;
-    public static final int dim_foreground_disabled_material_dark=0x7f050044;
-    public static final int dim_foreground_disabled_material_light=0x7f050045;
-    public static final int dim_foreground_material_dark=0x7f050046;
-    public static final int dim_foreground_material_light=0x7f050047;
-    public static final int error_color_material=0x7f050048;
-    public static final int foreground_material_dark=0x7f050049;
-    public static final int foreground_material_light=0x7f05004a;
-    public static final int highlighted_text_material_dark=0x7f05004b;
-    public static final int highlighted_text_material_light=0x7f05004c;
-    public static final int material_blue_grey_800=0x7f05004d;
-    public static final int material_blue_grey_900=0x7f05004e;
-    public static final int material_blue_grey_950=0x7f05004f;
-    public static final int material_deep_teal_200=0x7f050050;
-    public static final int material_deep_teal_500=0x7f050051;
-    public static final int material_grey_100=0x7f050052;
-    public static final int material_grey_300=0x7f050053;
-    public static final int material_grey_50=0x7f050054;
-    public static final int material_grey_600=0x7f050055;
-    public static final int material_grey_800=0x7f050056;
-    public static final int material_grey_850=0x7f050057;
-    public static final int material_grey_900=0x7f050058;
-    public static final int notification_action_color_filter=0x7f050059;
-    public static final int notification_icon_bg_color=0x7f05005a;
-    public static final int notification_material_background_media_default_color=0x7f05005b;
-    public static final int primary_dark_material_dark=0x7f05005c;
-    public static final int primary_dark_material_light=0x7f05005d;
-    public static final int primary_material_dark=0x7f05005e;
-    public static final int primary_material_light=0x7f05005f;
-    public static final int primary_text_default_material_dark=0x7f050060;
-    public static final int primary_text_default_material_light=0x7f050061;
-    public static final int primary_text_disabled_material_dark=0x7f050062;
-    public static final int primary_text_disabled_material_light=0x7f050063;
-    public static final int primary_text_selector_dark=0x7f050064;
-    public static final int primary_text_selector_light=0x7f050065;
-    public static final int ripple_material_dark=0x7f050066;
-    public static final int ripple_material_light=0x7f050067;
-    public static final int secondary_text_default_material_dark=0x7f050068;
-    public static final int secondary_text_default_material_light=0x7f050069;
-    public static final int secondary_text_disabled_material_dark=0x7f05006a;
-    public static final int secondary_text_disabled_material_light=0x7f05006b;
-    public static final int secondary_text_selector_dark=0x7f05006c;
-    public static final int secondary_text_selector_light=0x7f05006d;
-    public static final int stroke=0x7f05006e;
-    public static final int switch_thumb_disabled_material_dark=0x7f05006f;
-    public static final int switch_thumb_disabled_material_light=0x7f050070;
-    public static final int switch_thumb_material_dark=0x7f050071;
-    public static final int switch_thumb_material_light=0x7f050072;
-    public static final int switch_thumb_normal_material_dark=0x7f050073;
-    public static final int switch_thumb_normal_material_light=0x7f050074;
-    public static final int tooltip_background_dark=0x7f050075;
-    public static final int tooltip_background_light=0x7f050076;
-    public static final int white=0x7f050077;
+    public static final int black=0x7f05001f;
+    public static final int bright_foreground_disabled_material_dark=0x7f050020;
+    public static final int bright_foreground_disabled_material_light=0x7f050021;
+    public static final int bright_foreground_inverse_material_dark=0x7f050022;
+    public static final int bright_foreground_inverse_material_light=0x7f050023;
+    public static final int bright_foreground_material_dark=0x7f050024;
+    public static final int bright_foreground_material_light=0x7f050025;
+    public static final int button_material_dark=0x7f050026;
+    public static final int button_material_light=0x7f050027;
+    public static final int cardview_dark_background=0x7f050028;
+    public static final int cardview_light_background=0x7f050029;
+    public static final int cardview_shadow_end_color=0x7f05002a;
+    public static final int cardview_shadow_start_color=0x7f05002b;
+    public static final int colorAccent=0x7f05002c;
+    public static final int colorPrimary=0x7f05002d;
+    public static final int colorPrimaryDark=0x7f05002e;
+    public static final int common_google_signin_btn_text_dark=0x7f05002f;
+    public static final int common_google_signin_btn_text_dark_default=0x7f050030;
+    public static final int common_google_signin_btn_text_dark_disabled=0x7f050031;
+    public static final int common_google_signin_btn_text_dark_focused=0x7f050032;
+    public static final int common_google_signin_btn_text_dark_pressed=0x7f050033;
+    public static final int common_google_signin_btn_text_light=0x7f050034;
+    public static final int common_google_signin_btn_text_light_default=0x7f050035;
+    public static final int common_google_signin_btn_text_light_disabled=0x7f050036;
+    public static final int common_google_signin_btn_text_light_focused=0x7f050037;
+    public static final int common_google_signin_btn_text_light_pressed=0x7f050038;
+    public static final int common_google_signin_btn_tint=0x7f050039;
+    public static final int design_bottom_navigation_shadow_color=0x7f05003a;
+    public static final int design_error=0x7f05003b;
+    public static final int design_fab_shadow_end_color=0x7f05003c;
+    public static final int design_fab_shadow_mid_color=0x7f05003d;
+    public static final int design_fab_shadow_start_color=0x7f05003e;
+    public static final int design_fab_stroke_end_inner_color=0x7f05003f;
+    public static final int design_fab_stroke_end_outer_color=0x7f050040;
+    public static final int design_fab_stroke_top_inner_color=0x7f050041;
+    public static final int design_fab_stroke_top_outer_color=0x7f050042;
+    public static final int design_snackbar_background_color=0x7f050043;
+    public static final int design_tint_password_toggle=0x7f050044;
+    public static final int dim_foreground_disabled_material_dark=0x7f050045;
+    public static final int dim_foreground_disabled_material_light=0x7f050046;
+    public static final int dim_foreground_material_dark=0x7f050047;
+    public static final int dim_foreground_material_light=0x7f050048;
+    public static final int error_color_material=0x7f050049;
+    public static final int foreground_material_dark=0x7f05004a;
+    public static final int foreground_material_light=0x7f05004b;
+    public static final int highlighted_text_material_dark=0x7f05004c;
+    public static final int highlighted_text_material_light=0x7f05004d;
+    public static final int material_blue_grey_800=0x7f05004e;
+    public static final int material_blue_grey_900=0x7f05004f;
+    public static final int material_blue_grey_950=0x7f050050;
+    public static final int material_deep_teal_200=0x7f050051;
+    public static final int material_deep_teal_500=0x7f050052;
+    public static final int material_grey_100=0x7f050053;
+    public static final int material_grey_300=0x7f050054;
+    public static final int material_grey_50=0x7f050055;
+    public static final int material_grey_600=0x7f050056;
+    public static final int material_grey_800=0x7f050057;
+    public static final int material_grey_850=0x7f050058;
+    public static final int material_grey_900=0x7f050059;
+    public static final int notification_action_color_filter=0x7f05005a;
+    public static final int notification_icon_bg_color=0x7f05005b;
+    public static final int notification_material_background_media_default_color=0x7f05005c;
+    public static final int primary_dark_material_dark=0x7f05005d;
+    public static final int primary_dark_material_light=0x7f05005e;
+    public static final int primary_material_dark=0x7f05005f;
+    public static final int primary_material_light=0x7f050060;
+    public static final int primary_text_default_material_dark=0x7f050061;
+    public static final int primary_text_default_material_light=0x7f050062;
+    public static final int primary_text_disabled_material_dark=0x7f050063;
+    public static final int primary_text_disabled_material_light=0x7f050064;
+    public static final int primary_text_selector_dark=0x7f050065;
+    public static final int primary_text_selector_light=0x7f050066;
+    public static final int ripple_material_dark=0x7f050067;
+    public static final int ripple_material_light=0x7f050068;
+    public static final int secondary_text_default_material_dark=0x7f050069;
+    public static final int secondary_text_default_material_light=0x7f05006a;
+    public static final int secondary_text_disabled_material_dark=0x7f05006b;
+    public static final int secondary_text_disabled_material_light=0x7f05006c;
+    public static final int secondary_text_selector_dark=0x7f05006d;
+    public static final int secondary_text_selector_light=0x7f05006e;
+    public static final int stroke=0x7f05006f;
+    public static final int switch_thumb_disabled_material_dark=0x7f050070;
+    public static final int switch_thumb_disabled_material_light=0x7f050071;
+    public static final int switch_thumb_material_dark=0x7f050072;
+    public static final int switch_thumb_material_light=0x7f050073;
+    public static final int switch_thumb_normal_material_dark=0x7f050074;
+    public static final int switch_thumb_normal_material_light=0x7f050075;
+    public static final int tooltip_background_dark=0x7f050076;
+    public static final int tooltip_background_light=0x7f050077;
+    public static final int white=0x7f050078;
   }
   public static final class dimen {
     public static final int abc_action_bar_content_inset_material=0x7f060000;
@@ -3853,208 +3854,215 @@ public final class R {
     public static final int app_icon=0x7f080023;
     public static final int app_name=0x7f080024;
     public static final int app_title=0x7f080025;
-    public static final int async=0x7f080026;
-    public static final int auto=0x7f080027;
-    public static final int barrier=0x7f080028;
-    public static final int beginning=0x7f080029;
-    public static final int blocking=0x7f08002a;
-    public static final int blog_contain=0x7f08002b;
-    public static final int blog_desc=0x7f08002c;
-    public static final int blog_name=0x7f08002d;
-    public static final int blog_posts=0x7f08002e;
-    public static final int blog_swiperefresh=0x7f08002f;
-    public static final int blog_url=0x7f080030;
-    public static final int bottom=0x7f080031;
-    public static final int brief=0x7f080032;
-    public static final int buttonPanel=0x7f080033;
-    public static final int cancel_action=0x7f080034;
-    public static final int card_holder=0x7f080035;
-    public static final int center=0x7f080036;
-    public static final int center_horizontal=0x7f080037;
-    public static final int center_vertical=0x7f080038;
-    public static final int chains=0x7f080039;
-    public static final int checkbox=0x7f08003a;
-    public static final int chronometer=0x7f08003b;
-    public static final int clip_horizontal=0x7f08003c;
-    public static final int clip_vertical=0x7f08003d;
-    public static final int collapseActionView=0x7f08003e;
-    public static final int container=0x7f08003f;
-    public static final int contentPanel=0x7f080040;
-    public static final int coordinator=0x7f080041;
-    public static final int cover=0x7f080042;
-    public static final int custom=0x7f080043;
-    public static final int customPanel=0x7f080044;
-    public static final int dark=0x7f080045;
-    public static final int decor_content_parent=0x7f080046;
-    public static final int default_activity_button=0x7f080047;
-    public static final int design_bottom_sheet=0x7f080048;
-    public static final int design_menu_item_action_area=0x7f080049;
-    public static final int design_menu_item_action_area_stub=0x7f08004a;
-    public static final int design_menu_item_text=0x7f08004b;
-    public static final int design_navigation_view=0x7f08004c;
-    public static final int dimensions=0x7f08004d;
-    public static final int direct=0x7f08004e;
-    public static final int disableHome=0x7f08004f;
-    public static final int drawer_frame=0x7f080050;
-    public static final int edit_query=0x7f080051;
-    public static final int end=0x7f080052;
-    public static final int end_padder=0x7f080053;
-    public static final int enterAlways=0x7f080054;
-    public static final int enterAlwaysCollapsed=0x7f080055;
-    public static final int exitUntilCollapsed=0x7f080056;
-    public static final int expand_activities_button=0x7f080057;
-    public static final int expanded_menu=0x7f080058;
-    public static final int fill=0x7f080059;
-    public static final int fill_horizontal=0x7f08005a;
-    public static final int fill_vertical=0x7f08005b;
-    public static final int fixed=0x7f08005c;
-    public static final int forever=0x7f08005d;
-    public static final int ghost_view=0x7f08005e;
-    public static final int gone=0x7f08005f;
-    public static final int groups=0x7f080060;
-    public static final int home=0x7f080061;
-    public static final int homeAsUp=0x7f080062;
-    public static final int icon=0x7f080063;
-    public static final int icon_group=0x7f080064;
-    public static final int icon_only=0x7f080065;
-    public static final int ifRoom=0x7f080066;
-    public static final int image=0x7f080067;
-    public static final int info=0x7f080068;
-    public static final int invisible=0x7f080069;
-    public static final int italic=0x7f08006a;
-    public static final int item_touch_helper_previous_elevation=0x7f08006b;
-    public static final int label=0x7f08006c;
-    public static final int largeLabel=0x7f08006d;
-    public static final int left=0x7f08006e;
-    public static final int light=0x7f08006f;
-    public static final int line1=0x7f080070;
-    public static final int line3=0x7f080071;
-    public static final int links=0x7f080072;
-    public static final int listMode=0x7f080073;
-    public static final int list_item=0x7f080074;
-    public static final int masked=0x7f080075;
-    public static final int media_actions=0x7f080076;
-    public static final int message=0x7f080077;
-    public static final int middle=0x7f080078;
-    public static final int mini=0x7f080079;
-    public static final int multiply=0x7f08007a;
-    public static final int name=0x7f08007b;
-    public static final int nav_blogs=0x7f08007c;
-    public static final int nav_comments=0x7f08007d;
-    public static final int nav_pages=0x7f08007e;
-    public static final int nav_posts=0x7f08007f;
-    public static final int nav_stats=0x7f080080;
-    public static final int navigation=0x7f080081;
-    public static final int navigation_header_container=0x7f080082;
-    public static final int never=0x7f080083;
-    public static final int none=0x7f080084;
-    public static final int normal=0x7f080085;
-    public static final int notification_background=0x7f080086;
-    public static final int notification_main_column=0x7f080087;
-    public static final int notification_main_column_container=0x7f080088;
-    public static final int packed=0x7f080089;
-    public static final int pageview=0x7f08008a;
-    public static final int parallax=0x7f08008b;
-    public static final int parent=0x7f08008c;
-    public static final int parentPanel=0x7f08008d;
-    public static final int parent_matrix=0x7f08008e;
-    public static final int percent=0x7f08008f;
-    public static final int photo=0x7f080090;
-    public static final int pin=0x7f080091;
-    public static final int post_author=0x7f080092;
-    public static final int post_thumbnail=0x7f080093;
-    public static final int post_title=0x7f080094;
-    public static final int posts_contain=0x7f080095;
-    public static final int posts_fab=0x7f080096;
-    public static final int progress_circular=0x7f080097;
-    public static final int progress_horizontal=0x7f080098;
-    public static final int radio=0x7f080099;
-    public static final int right=0x7f08009a;
-    public static final int right_icon=0x7f08009b;
-    public static final int right_side=0x7f08009c;
-    public static final int save_image_matrix=0x7f08009d;
-    public static final int save_non_transition_alpha=0x7f08009e;
-    public static final int save_scale_type=0x7f08009f;
-    public static final int screen=0x7f0800a0;
-    public static final int scroll=0x7f0800a1;
-    public static final int scrollIndicatorDown=0x7f0800a2;
-    public static final int scrollIndicatorUp=0x7f0800a3;
-    public static final int scrollView=0x7f0800a4;
-    public static final int scrollable=0x7f0800a5;
-    public static final int search_badge=0x7f0800a6;
-    public static final int search_bar=0x7f0800a7;
-    public static final int search_button=0x7f0800a8;
-    public static final int search_close_btn=0x7f0800a9;
-    public static final int search_edit_frame=0x7f0800aa;
-    public static final int search_go_btn=0x7f0800ab;
-    public static final int search_mag_icon=0x7f0800ac;
-    public static final int search_plate=0x7f0800ad;
-    public static final int search_src_text=0x7f0800ae;
-    public static final int search_voice_btn=0x7f0800af;
-    public static final int select_dialog_listview=0x7f0800b0;
-    public static final int shortcut=0x7f0800b1;
-    public static final int showCustom=0x7f0800b2;
-    public static final int showHome=0x7f0800b3;
-    public static final int showTitle=0x7f0800b4;
-    public static final int sign_in_button=0x7f0800b5;
-    public static final int sign_up=0x7f0800b6;
-    public static final int sign_up_btn=0x7f0800b7;
-    public static final int smallLabel=0x7f0800b8;
-    public static final int snackbar_action=0x7f0800b9;
-    public static final int snackbar_text=0x7f0800ba;
-    public static final int snap=0x7f0800bb;
-    public static final int spacer=0x7f0800bc;
-    public static final int split_action_bar=0x7f0800bd;
-    public static final int spread=0x7f0800be;
-    public static final int spread_inside=0x7f0800bf;
-    public static final int src_atop=0x7f0800c0;
-    public static final int src_in=0x7f0800c1;
-    public static final int src_over=0x7f0800c2;
-    public static final int standard=0x7f0800c3;
-    public static final int start=0x7f0800c4;
-    public static final int status_bar_latest_event_content=0x7f0800c5;
-    public static final int stroke=0x7f0800c6;
-    public static final int sub_title=0x7f0800c7;
-    public static final int submenuarrow=0x7f0800c8;
-    public static final int submit_area=0x7f0800c9;
-    public static final int swiperefresh=0x7f0800ca;
-    public static final int tabMode=0x7f0800cb;
-    public static final int text=0x7f0800cc;
-    public static final int text2=0x7f0800cd;
-    public static final int textSpacerNoButtons=0x7f0800ce;
-    public static final int textSpacerNoTitle=0x7f0800cf;
-    public static final int textView=0x7f0800d0;
-    public static final int text_input_password_toggle=0x7f0800d1;
-    public static final int textinput_counter=0x7f0800d2;
-    public static final int textinput_error=0x7f0800d3;
-    public static final int this_month=0x7f0800d4;
-    public static final int this_month_num=0x7f0800d5;
-    public static final int time=0x7f0800d6;
-    public static final int title=0x7f0800d7;
-    public static final int titleDividerNoCustom=0x7f0800d8;
-    public static final int title_template=0x7f0800d9;
-    public static final int toast_icon=0x7f0800da;
-    public static final int toast_root=0x7f0800db;
-    public static final int toast_text=0x7f0800dc;
-    public static final int today=0x7f0800dd;
-    public static final int today_num=0x7f0800de;
-    public static final int top=0x7f0800df;
-    public static final int topPanel=0x7f0800e0;
-    public static final int touch_outside=0x7f0800e1;
-    public static final int transition_current_scene=0x7f0800e2;
-    public static final int transition_layout_save=0x7f0800e3;
-    public static final int transition_position=0x7f0800e4;
-    public static final int transition_scene_layoutid_cache=0x7f0800e5;
-    public static final int transition_transform=0x7f0800e6;
-    public static final int uniform=0x7f0800e7;
-    public static final int up=0x7f0800e8;
-    public static final int useLogo=0x7f0800e9;
-    public static final int view_offset_helper=0x7f0800ea;
-    public static final int visible=0x7f0800eb;
-    public static final int wide=0x7f0800ec;
-    public static final int withText=0x7f0800ed;
-    public static final int wrap=0x7f0800ee;
-    public static final int wrap_content=0x7f0800ef;
+    public static final int arll=0x7f080026;
+    public static final int async=0x7f080027;
+    public static final int auto=0x7f080028;
+    public static final int barrier=0x7f080029;
+    public static final int beginning=0x7f08002a;
+    public static final int blocking=0x7f08002b;
+    public static final int blog_contain=0x7f08002c;
+    public static final int blog_desc=0x7f08002d;
+    public static final int blog_name=0x7f08002e;
+    public static final int blog_posts=0x7f08002f;
+    public static final int blog_swiperefresh=0x7f080030;
+    public static final int blog_url=0x7f080031;
+    public static final int bottom=0x7f080032;
+    public static final int brief=0x7f080033;
+    public static final int buttonPanel=0x7f080034;
+    public static final int cancel_action=0x7f080035;
+    public static final int card_holder=0x7f080036;
+    public static final int center=0x7f080037;
+    public static final int center_horizontal=0x7f080038;
+    public static final int center_vertical=0x7f080039;
+    public static final int chains=0x7f08003a;
+    public static final int checkbox=0x7f08003b;
+    public static final int chronometer=0x7f08003c;
+    public static final int clip_horizontal=0x7f08003d;
+    public static final int clip_vertical=0x7f08003e;
+    public static final int collapseActionView=0x7f08003f;
+    public static final int container=0x7f080040;
+    public static final int contentPanel=0x7f080041;
+    public static final int coordinator=0x7f080042;
+    public static final int cover=0x7f080043;
+    public static final int custom=0x7f080044;
+    public static final int customPanel=0x7f080045;
+    public static final int dark=0x7f080046;
+    public static final int decor_content_parent=0x7f080047;
+    public static final int default_activity_button=0x7f080048;
+    public static final int delete_btn=0x7f080049;
+    public static final int demac=0x7f08004a;
+    public static final int design_bottom_sheet=0x7f08004b;
+    public static final int design_menu_item_action_area=0x7f08004c;
+    public static final int design_menu_item_action_area_stub=0x7f08004d;
+    public static final int design_menu_item_text=0x7f08004e;
+    public static final int design_navigation_view=0x7f08004f;
+    public static final int dimensions=0x7f080050;
+    public static final int direct=0x7f080051;
+    public static final int disableHome=0x7f080052;
+    public static final int drawer_frame=0x7f080053;
+    public static final int edit_btn=0x7f080054;
+    public static final int edit_query=0x7f080055;
+    public static final int end=0x7f080056;
+    public static final int end_padder=0x7f080057;
+    public static final int enterAlways=0x7f080058;
+    public static final int enterAlwaysCollapsed=0x7f080059;
+    public static final int exitUntilCollapsed=0x7f08005a;
+    public static final int expand_activities_button=0x7f08005b;
+    public static final int expanded_menu=0x7f08005c;
+    public static final int fill=0x7f08005d;
+    public static final int fill_horizontal=0x7f08005e;
+    public static final int fill_vertical=0x7f08005f;
+    public static final int fixed=0x7f080060;
+    public static final int fll=0x7f080061;
+    public static final int forever=0x7f080062;
+    public static final int ghost_view=0x7f080063;
+    public static final int gone=0x7f080064;
+    public static final int groups=0x7f080065;
+    public static final int home=0x7f080066;
+    public static final int homeAsUp=0x7f080067;
+    public static final int icon=0x7f080068;
+    public static final int icon_group=0x7f080069;
+    public static final int icon_only=0x7f08006a;
+    public static final int ifRoom=0x7f08006b;
+    public static final int image=0x7f08006c;
+    public static final int info=0x7f08006d;
+    public static final int invisible=0x7f08006e;
+    public static final int italic=0x7f08006f;
+    public static final int item_touch_helper_previous_elevation=0x7f080070;
+    public static final int label=0x7f080071;
+    public static final int largeLabel=0x7f080072;
+    public static final int left=0x7f080073;
+    public static final int light=0x7f080074;
+    public static final int line1=0x7f080075;
+    public static final int line3=0x7f080076;
+    public static final int links=0x7f080077;
+    public static final int listMode=0x7f080078;
+    public static final int list_item=0x7f080079;
+    public static final int masked=0x7f08007a;
+    public static final int media_actions=0x7f08007b;
+    public static final int message=0x7f08007c;
+    public static final int middle=0x7f08007d;
+    public static final int mini=0x7f08007e;
+    public static final int multiply=0x7f08007f;
+    public static final int name=0x7f080080;
+    public static final int nav_comments=0x7f080081;
+    public static final int nav_pages=0x7f080082;
+    public static final int nav_posts=0x7f080083;
+    public static final int nav_stats=0x7f080084;
+    public static final int navigation=0x7f080085;
+    public static final int navigation_header_container=0x7f080086;
+    public static final int never=0x7f080087;
+    public static final int none=0x7f080088;
+    public static final int normal=0x7f080089;
+    public static final int notification_background=0x7f08008a;
+    public static final int notification_main_column=0x7f08008b;
+    public static final int notification_main_column_container=0x7f08008c;
+    public static final int packed=0x7f08008d;
+    public static final int pageview=0x7f08008e;
+    public static final int parallax=0x7f08008f;
+    public static final int parent=0x7f080090;
+    public static final int parentPanel=0x7f080091;
+    public static final int parent_matrix=0x7f080092;
+    public static final int percent=0x7f080093;
+    public static final int photo=0x7f080094;
+    public static final int pin=0x7f080095;
+    public static final int post_author=0x7f080096;
+    public static final int post_thumbnail=0x7f080097;
+    public static final int post_title=0x7f080098;
+    public static final int posts_contain=0x7f080099;
+    public static final int posts_fab=0x7f08009a;
+    public static final int progress_circular=0x7f08009b;
+    public static final int progress_horizontal=0x7f08009c;
+    public static final int radio=0x7f08009d;
+    public static final int right=0x7f08009e;
+    public static final int right_icon=0x7f08009f;
+    public static final int right_side=0x7f0800a0;
+    public static final int save_image_matrix=0x7f0800a1;
+    public static final int save_non_transition_alpha=0x7f0800a2;
+    public static final int save_scale_type=0x7f0800a3;
+    public static final int screen=0x7f0800a4;
+    public static final int scroll=0x7f0800a5;
+    public static final int scrollIndicatorDown=0x7f0800a6;
+    public static final int scrollIndicatorUp=0x7f0800a7;
+    public static final int scrollView=0x7f0800a8;
+    public static final int scrollable=0x7f0800a9;
+    public static final int search_badge=0x7f0800aa;
+    public static final int search_bar=0x7f0800ab;
+    public static final int search_button=0x7f0800ac;
+    public static final int search_close_btn=0x7f0800ad;
+    public static final int search_edit_frame=0x7f0800ae;
+    public static final int search_go_btn=0x7f0800af;
+    public static final int search_mag_icon=0x7f0800b0;
+    public static final int search_plate=0x7f0800b1;
+    public static final int search_src_text=0x7f0800b2;
+    public static final int search_voice_btn=0x7f0800b3;
+    public static final int select_dialog_listview=0x7f0800b4;
+    public static final int share_btn=0x7f0800b5;
+    public static final int shortcut=0x7f0800b6;
+    public static final int showCustom=0x7f0800b7;
+    public static final int showHome=0x7f0800b8;
+    public static final int showTitle=0x7f0800b9;
+    public static final int sign_in_button=0x7f0800ba;
+    public static final int sign_up=0x7f0800bb;
+    public static final int sign_up_btn=0x7f0800bc;
+    public static final int smallLabel=0x7f0800bd;
+    public static final int snackbar_action=0x7f0800be;
+    public static final int snackbar_text=0x7f0800bf;
+    public static final int snap=0x7f0800c0;
+    public static final int spacer=0x7f0800c1;
+    public static final int split_action_bar=0x7f0800c2;
+    public static final int spread=0x7f0800c3;
+    public static final int spread_inside=0x7f0800c4;
+    public static final int src_atop=0x7f0800c5;
+    public static final int src_in=0x7f0800c6;
+    public static final int src_over=0x7f0800c7;
+    public static final int srll=0x7f0800c8;
+    public static final int standard=0x7f0800c9;
+    public static final int start=0x7f0800ca;
+    public static final int status_bar_latest_event_content=0x7f0800cb;
+    public static final int stroke=0x7f0800cc;
+    public static final int sub_title=0x7f0800cd;
+    public static final int submenuarrow=0x7f0800ce;
+    public static final int submit_area=0x7f0800cf;
+    public static final int swiperefresh=0x7f0800d0;
+    public static final int tabMode=0x7f0800d1;
+    public static final int text=0x7f0800d2;
+    public static final int text2=0x7f0800d3;
+    public static final int textSpacerNoButtons=0x7f0800d4;
+    public static final int textSpacerNoTitle=0x7f0800d5;
+    public static final int textView=0x7f0800d6;
+    public static final int text_input_password_toggle=0x7f0800d7;
+    public static final int textinput_counter=0x7f0800d8;
+    public static final int textinput_error=0x7f0800d9;
+    public static final int this_month=0x7f0800da;
+    public static final int this_month_num=0x7f0800db;
+    public static final int time=0x7f0800dc;
+    public static final int title=0x7f0800dd;
+    public static final int titleDividerNoCustom=0x7f0800de;
+    public static final int title_template=0x7f0800df;
+    public static final int toast_icon=0x7f0800e0;
+    public static final int toast_root=0x7f0800e1;
+    public static final int toast_text=0x7f0800e2;
+    public static final int today=0x7f0800e3;
+    public static final int today_num=0x7f0800e4;
+    public static final int top=0x7f0800e5;
+    public static final int topPanel=0x7f0800e6;
+    public static final int touch_outside=0x7f0800e7;
+    public static final int transition_current_scene=0x7f0800e8;
+    public static final int transition_layout_save=0x7f0800e9;
+    public static final int transition_position=0x7f0800ea;
+    public static final int transition_scene_layoutid_cache=0x7f0800eb;
+    public static final int transition_transform=0x7f0800ec;
+    public static final int trll=0x7f0800ed;
+    public static final int uniform=0x7f0800ee;
+    public static final int up=0x7f0800ef;
+    public static final int useLogo=0x7f0800f0;
+    public static final int view_offset_helper=0x7f0800f1;
+    public static final int visible=0x7f0800f2;
+    public static final int wide=0x7f0800f3;
+    public static final int withText=0x7f0800f4;
+    public static final int wrap=0x7f0800f5;
+    public static final int wrap_content=0x7f0800f6;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f090000;
@@ -4746,35 +4754,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.jideguru.quickblogger:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.jideguru.quickblogger:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.jideguru.quickblogger:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.jideguru.quickblogger:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.jideguru.quickblogger:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.jideguru.quickblogger:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.jideguru.quickblogger:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.jideguru.quickblogger:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.jideguru.quickblogger:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.jideguru.quickblogger:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.jideguru.quickblogger:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.jideguru.quickblogger:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.jideguru.quickblogger:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.jideguru.quickblogger:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.jideguru.quickblogger:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.jideguru.quickblogger:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.jideguru.quickblogger:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.jideguru.quickblogger:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.jideguru.quickblogger:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.jideguru.quickblogger:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.jideguru.quickblogger:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.jideguru.quickblogger:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.jideguru.quickblogger:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.jideguru.quickblogger:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.jideguru.quickblogger:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.jideguru.quickblogger:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.jideguru.quickblogger:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.jideguru.quickblogger:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.jideguru.quickblogger:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.quickcodestudio.quickblogger:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.quickcodestudio.quickblogger:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.quickcodestudio.quickblogger:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.quickcodestudio.quickblogger:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.quickcodestudio.quickblogger:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.quickcodestudio.quickblogger:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.quickcodestudio.quickblogger:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.quickcodestudio.quickblogger:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.quickcodestudio.quickblogger:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.quickcodestudio.quickblogger:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.quickcodestudio.quickblogger:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.quickcodestudio.quickblogger:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.quickcodestudio.quickblogger:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.quickcodestudio.quickblogger:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.quickcodestudio.quickblogger:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.quickcodestudio.quickblogger:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.quickcodestudio.quickblogger:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.quickcodestudio.quickblogger:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.quickcodestudio.quickblogger:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.quickcodestudio.quickblogger:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.quickcodestudio.quickblogger:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.quickcodestudio.quickblogger:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.quickcodestudio.quickblogger:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.quickcodestudio.quickblogger:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.quickcodestudio.quickblogger:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.quickcodestudio.quickblogger:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.quickcodestudio.quickblogger:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.quickcodestudio.quickblogger:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.quickcodestudio.quickblogger:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -4817,7 +4825,7 @@ public final class R {
         0x7f03018e
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4825,11 +4833,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:background
+     * @attr name com.quickcodestudio.quickblogger:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4840,11 +4848,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:backgroundSplit
+     * @attr name com.quickcodestudio.quickblogger:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4855,11 +4863,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:backgroundStacked
+     * @attr name com.quickcodestudio.quickblogger:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4868,11 +4876,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentInsetEnd
+     * @attr name com.quickcodestudio.quickblogger:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4881,11 +4889,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentInsetEndWithActions
+     * @attr name com.quickcodestudio.quickblogger:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4894,11 +4902,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentInsetLeft
+     * @attr name com.quickcodestudio.quickblogger:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4907,11 +4915,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentInsetRight
+     * @attr name com.quickcodestudio.quickblogger:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4920,11 +4928,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentInsetStart
+     * @attr name com.quickcodestudio.quickblogger:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4933,11 +4941,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentInsetStartWithNavigation
+     * @attr name com.quickcodestudio.quickblogger:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4945,11 +4953,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:customNavigationLayout
+     * @attr name com.quickcodestudio.quickblogger:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -4967,11 +4975,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:displayOptions
+     * @attr name com.quickcodestudio.quickblogger:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4979,11 +4987,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:divider
+     * @attr name com.quickcodestudio.quickblogger:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4992,11 +5000,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:elevation
+     * @attr name com.quickcodestudio.quickblogger:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5005,21 +5013,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:height
+     * @attr name com.quickcodestudio.quickblogger:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:hideOnContentScroll
+     * @attr name com.quickcodestudio.quickblogger:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5027,11 +5035,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:homeAsUpIndicator
+     * @attr name com.quickcodestudio.quickblogger:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5039,11 +5047,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:homeLayout
+     * @attr name com.quickcodestudio.quickblogger:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5051,11 +5059,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:icon
+     * @attr name com.quickcodestudio.quickblogger:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5063,11 +5071,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:indeterminateProgressStyle
+     * @attr name com.quickcodestudio.quickblogger:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5076,11 +5084,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:itemPadding
+     * @attr name com.quickcodestudio.quickblogger:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5088,11 +5096,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:logo
+     * @attr name com.quickcodestudio.quickblogger:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5106,11 +5114,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:navigationMode
+     * @attr name com.quickcodestudio.quickblogger:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5118,11 +5126,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:popupTheme
+     * @attr name com.quickcodestudio.quickblogger:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5131,11 +5139,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:progressBarPadding
+     * @attr name com.quickcodestudio.quickblogger:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5143,21 +5151,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:progressBarStyle
+     * @attr name com.quickcodestudio.quickblogger:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:subtitle
+     * @attr name com.quickcodestudio.quickblogger:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5165,21 +5173,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:subtitleTextStyle
+     * @attr name com.quickcodestudio.quickblogger:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:title
+     * @attr name com.quickcodestudio.quickblogger:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5187,7 +5195,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:titleTextStyle
+     * @attr name com.quickcodestudio.quickblogger:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -5269,12 +5277,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.jideguru.quickblogger:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.jideguru.quickblogger:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.jideguru.quickblogger:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.jideguru.quickblogger:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.jideguru.quickblogger:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.jideguru.quickblogger:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.quickcodestudio.quickblogger:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.quickcodestudio.quickblogger:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.quickcodestudio.quickblogger:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.quickcodestudio.quickblogger:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.quickcodestudio.quickblogger:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.quickcodestudio.quickblogger:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -5288,7 +5296,7 @@ public final class R {
         0x7f030158, 0x7f03018e
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5296,11 +5304,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:background
+     * @attr name com.quickcodestudio.quickblogger:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5311,11 +5319,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:backgroundSplit
+     * @attr name com.quickcodestudio.quickblogger:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5323,11 +5331,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:closeItemLayout
+     * @attr name com.quickcodestudio.quickblogger:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5336,11 +5344,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:height
+     * @attr name com.quickcodestudio.quickblogger:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5348,11 +5356,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:subtitleTextStyle
+     * @attr name com.quickcodestudio.quickblogger:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5360,7 +5368,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:titleTextStyle
+     * @attr name com.quickcodestudio.quickblogger:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -5370,8 +5378,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.jideguru.quickblogger:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.jideguru.quickblogger:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.quickcodestudio.quickblogger:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.quickcodestudio.quickblogger:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -5380,7 +5388,7 @@ public final class R {
         0x7f030094, 0x7f0300c0
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5388,17 +5396,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:expandActivityOverflowButtonDrawable
+     * @attr name com.quickcodestudio.quickblogger:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:initialActivityCount
+     * @attr name com.quickcodestudio.quickblogger:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -5409,12 +5417,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.jideguru.quickblogger:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.jideguru.quickblogger:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.jideguru.quickblogger:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.jideguru.quickblogger:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.jideguru.quickblogger:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.jideguru.quickblogger:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.quickcodestudio.quickblogger:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.quickcodestudio.quickblogger:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.quickcodestudio.quickblogger:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.quickcodestudio.quickblogger:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.quickcodestudio.quickblogger:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.quickcodestudio.quickblogger:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonPanelSideLayout
@@ -5441,7 +5449,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5449,11 +5457,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:buttonPanelSideLayout
+     * @attr name com.quickcodestudio.quickblogger:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5461,11 +5469,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:listItemLayout
+     * @attr name com.quickcodestudio.quickblogger:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5473,11 +5481,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:listLayout
+     * @attr name com.quickcodestudio.quickblogger:listLayout
      */
     public static final int AlertDialog_listLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5485,21 +5493,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:multiChoiceItemLayout
+     * @attr name com.quickcodestudio.quickblogger:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:showTitle
+     * @attr name com.quickcodestudio.quickblogger:showTitle
      */
     public static final int AlertDialog_showTitle=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5507,7 +5515,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:singleChoiceItemLayout
+     * @attr name com.quickcodestudio.quickblogger:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=6;
     /**
@@ -5520,8 +5528,8 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation com.jideguru.quickblogger:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded com.jideguru.quickblogger:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation com.quickcodestudio.quickblogger:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.quickcodestudio.quickblogger:expanded}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -5569,7 +5577,7 @@ public final class R {
      */
     public static final int AppBarLayout_android_keyboardNavigationCluster=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#elevation}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5578,17 +5586,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:elevation
+     * @attr name com.quickcodestudio.quickblogger:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:expanded
+     * @attr name com.quickcodestudio.quickblogger:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
@@ -5598,8 +5606,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.jideguru.quickblogger:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.jideguru.quickblogger:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.quickcodestudio.quickblogger:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.quickcodestudio.quickblogger:state_collapsible}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -5608,23 +5616,23 @@ public final class R {
         0x7f03014f, 0x7f030150
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:state_collapsed
+     * @attr name com.quickcodestudio.quickblogger:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:state_collapsible
+     * @attr name com.quickcodestudio.quickblogger:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
@@ -5634,8 +5642,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.jideguru.quickblogger:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.jideguru.quickblogger:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.quickcodestudio.quickblogger:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.quickcodestudio.quickblogger:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -5644,7 +5652,7 @@ public final class R {
         0x7f030105, 0x7f030106
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -5660,11 +5668,11 @@ public final class R {
      * <tr><td>snap</td><td>10</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_scrollFlags
+     * @attr name com.quickcodestudio.quickblogger:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5672,7 +5680,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_scrollInterpolator
+     * @attr name com.quickcodestudio.quickblogger:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -5683,9 +5691,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.jideguru.quickblogger:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.jideguru.quickblogger:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.jideguru.quickblogger:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.quickcodestudio.quickblogger:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.quickcodestudio.quickblogger:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.quickcodestudio.quickblogger:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -5711,7 +5719,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5719,22 +5727,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:srcCompat
+     * @attr name com.quickcodestudio.quickblogger:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tint}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:tint
+     * @attr name com.quickcodestudio.quickblogger:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5750,7 +5758,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:tintMode
+     * @attr name com.quickcodestudio.quickblogger:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -5761,9 +5769,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.jideguru.quickblogger:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.jideguru.quickblogger:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.jideguru.quickblogger:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.quickcodestudio.quickblogger:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.quickcodestudio.quickblogger:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.quickcodestudio.quickblogger:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -5786,7 +5794,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5794,22 +5802,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:tickMark
+     * @attr name com.quickcodestudio.quickblogger:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:tickMarkTint
+     * @attr name com.quickcodestudio.quickblogger:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -5826,7 +5834,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:tickMarkTintMode
+     * @attr name com.quickcodestudio.quickblogger:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -5966,13 +5974,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.jideguru.quickblogger:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.jideguru.quickblogger:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.jideguru.quickblogger:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.jideguru.quickblogger:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.jideguru.quickblogger:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.jideguru.quickblogger:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.jideguru.quickblogger:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.quickcodestudio.quickblogger:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.quickcodestudio.quickblogger:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.quickcodestudio.quickblogger:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.quickcodestudio.quickblogger:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.quickcodestudio.quickblogger:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.quickcodestudio.quickblogger:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.quickcodestudio.quickblogger:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -6000,7 +6008,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6009,11 +6017,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:autoSizeMaxTextSize
+     * @attr name com.quickcodestudio.quickblogger:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6022,11 +6030,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:autoSizeMinTextSize
+     * @attr name com.quickcodestudio.quickblogger:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6034,11 +6042,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:autoSizePresetSizes
+     * @attr name com.quickcodestudio.quickblogger:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6047,11 +6055,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:autoSizeStepGranularity
+     * @attr name com.quickcodestudio.quickblogger:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6064,21 +6072,21 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:autoSizeTextType
+     * @attr name com.quickcodestudio.quickblogger:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:fontFamily
+     * @attr name com.quickcodestudio.quickblogger:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6088,7 +6096,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:textAllCaps
+     * @attr name com.quickcodestudio.quickblogger:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -6100,123 +6108,123 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.jideguru.quickblogger:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.jideguru.quickblogger:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.jideguru.quickblogger:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.jideguru.quickblogger:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.jideguru.quickblogger:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.jideguru.quickblogger:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.jideguru.quickblogger:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.jideguru.quickblogger:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.jideguru.quickblogger:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.jideguru.quickblogger:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.jideguru.quickblogger:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.jideguru.quickblogger:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.jideguru.quickblogger:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.jideguru.quickblogger:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.jideguru.quickblogger:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.jideguru.quickblogger:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.jideguru.quickblogger:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.jideguru.quickblogger:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.jideguru.quickblogger:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.jideguru.quickblogger:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.jideguru.quickblogger:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.jideguru.quickblogger:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.jideguru.quickblogger:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.jideguru.quickblogger:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.jideguru.quickblogger:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.jideguru.quickblogger:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.jideguru.quickblogger:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.jideguru.quickblogger:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.jideguru.quickblogger:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.jideguru.quickblogger:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.jideguru.quickblogger:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.jideguru.quickblogger:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.jideguru.quickblogger:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.jideguru.quickblogger:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.jideguru.quickblogger:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.jideguru.quickblogger:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.jideguru.quickblogger:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.jideguru.quickblogger:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.jideguru.quickblogger:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.jideguru.quickblogger:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.jideguru.quickblogger:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.jideguru.quickblogger:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.jideguru.quickblogger:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.jideguru.quickblogger:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.jideguru.quickblogger:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.jideguru.quickblogger:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.jideguru.quickblogger:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.jideguru.quickblogger:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.jideguru.quickblogger:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.jideguru.quickblogger:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.jideguru.quickblogger:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.jideguru.quickblogger:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.jideguru.quickblogger:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.jideguru.quickblogger:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.jideguru.quickblogger:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.jideguru.quickblogger:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.jideguru.quickblogger:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.jideguru.quickblogger:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.jideguru.quickblogger:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.jideguru.quickblogger:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.jideguru.quickblogger:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.jideguru.quickblogger:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.jideguru.quickblogger:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.jideguru.quickblogger:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.jideguru.quickblogger:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.jideguru.quickblogger:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.jideguru.quickblogger:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.jideguru.quickblogger:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.jideguru.quickblogger:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.jideguru.quickblogger:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.jideguru.quickblogger:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.jideguru.quickblogger:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.jideguru.quickblogger:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.jideguru.quickblogger:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.jideguru.quickblogger:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.jideguru.quickblogger:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.jideguru.quickblogger:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.jideguru.quickblogger:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.jideguru.quickblogger:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.jideguru.quickblogger:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.jideguru.quickblogger:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.jideguru.quickblogger:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.jideguru.quickblogger:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.jideguru.quickblogger:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.jideguru.quickblogger:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.jideguru.quickblogger:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.jideguru.quickblogger:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.jideguru.quickblogger:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.jideguru.quickblogger:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.jideguru.quickblogger:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.jideguru.quickblogger:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.jideguru.quickblogger:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.jideguru.quickblogger:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.jideguru.quickblogger:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.jideguru.quickblogger:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.jideguru.quickblogger:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.jideguru.quickblogger:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.jideguru.quickblogger:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.jideguru.quickblogger:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.jideguru.quickblogger:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.jideguru.quickblogger:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.jideguru.quickblogger:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.jideguru.quickblogger:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.jideguru.quickblogger:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.jideguru.quickblogger:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.jideguru.quickblogger:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.jideguru.quickblogger:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.jideguru.quickblogger:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.jideguru.quickblogger:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.jideguru.quickblogger:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.jideguru.quickblogger:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.jideguru.quickblogger:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.jideguru.quickblogger:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.jideguru.quickblogger:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.jideguru.quickblogger:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.jideguru.quickblogger:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.jideguru.quickblogger:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.quickcodestudio.quickblogger:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.quickcodestudio.quickblogger:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.quickcodestudio.quickblogger:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.quickcodestudio.quickblogger:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.quickcodestudio.quickblogger:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.quickcodestudio.quickblogger:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.quickcodestudio.quickblogger:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.quickcodestudio.quickblogger:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.quickcodestudio.quickblogger:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.quickcodestudio.quickblogger:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.quickcodestudio.quickblogger:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.quickcodestudio.quickblogger:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.quickcodestudio.quickblogger:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.quickcodestudio.quickblogger:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.quickcodestudio.quickblogger:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.quickcodestudio.quickblogger:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.quickcodestudio.quickblogger:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.quickcodestudio.quickblogger:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.quickcodestudio.quickblogger:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.quickcodestudio.quickblogger:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.quickcodestudio.quickblogger:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.quickcodestudio.quickblogger:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.quickcodestudio.quickblogger:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.quickcodestudio.quickblogger:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.quickcodestudio.quickblogger:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.quickcodestudio.quickblogger:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.quickcodestudio.quickblogger:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.quickcodestudio.quickblogger:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.quickcodestudio.quickblogger:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.quickcodestudio.quickblogger:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.quickcodestudio.quickblogger:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.quickcodestudio.quickblogger:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.quickcodestudio.quickblogger:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.quickcodestudio.quickblogger:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.quickcodestudio.quickblogger:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.quickcodestudio.quickblogger:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.quickcodestudio.quickblogger:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.quickcodestudio.quickblogger:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.quickcodestudio.quickblogger:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.quickcodestudio.quickblogger:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.quickcodestudio.quickblogger:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.quickcodestudio.quickblogger:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.quickcodestudio.quickblogger:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.quickcodestudio.quickblogger:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.quickcodestudio.quickblogger:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.quickcodestudio.quickblogger:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.quickcodestudio.quickblogger:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.quickcodestudio.quickblogger:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.quickcodestudio.quickblogger:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.quickcodestudio.quickblogger:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.quickcodestudio.quickblogger:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.quickcodestudio.quickblogger:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.quickcodestudio.quickblogger:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.quickcodestudio.quickblogger:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.quickcodestudio.quickblogger:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.quickcodestudio.quickblogger:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.quickcodestudio.quickblogger:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.quickcodestudio.quickblogger:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.quickcodestudio.quickblogger:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.quickcodestudio.quickblogger:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.quickcodestudio.quickblogger:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.quickcodestudio.quickblogger:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.quickcodestudio.quickblogger:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.quickcodestudio.quickblogger:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.quickcodestudio.quickblogger:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.quickcodestudio.quickblogger:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.quickcodestudio.quickblogger:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.quickcodestudio.quickblogger:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.quickcodestudio.quickblogger:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.quickcodestudio.quickblogger:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.quickcodestudio.quickblogger:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.quickcodestudio.quickblogger:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.quickcodestudio.quickblogger:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.quickcodestudio.quickblogger:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.quickcodestudio.quickblogger:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.quickcodestudio.quickblogger:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.quickcodestudio.quickblogger:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.quickcodestudio.quickblogger:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.quickcodestudio.quickblogger:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.quickcodestudio.quickblogger:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.quickcodestudio.quickblogger:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.quickcodestudio.quickblogger:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.quickcodestudio.quickblogger:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.quickcodestudio.quickblogger:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.quickcodestudio.quickblogger:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.quickcodestudio.quickblogger:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.quickcodestudio.quickblogger:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.quickcodestudio.quickblogger:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.quickcodestudio.quickblogger:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.quickcodestudio.quickblogger:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.quickcodestudio.quickblogger:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.quickcodestudio.quickblogger:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.quickcodestudio.quickblogger:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.quickcodestudio.quickblogger:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.quickcodestudio.quickblogger:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.quickcodestudio.quickblogger:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.quickcodestudio.quickblogger:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.quickcodestudio.quickblogger:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.quickcodestudio.quickblogger:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.quickcodestudio.quickblogger:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.quickcodestudio.quickblogger:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.quickcodestudio.quickblogger:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.quickcodestudio.quickblogger:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.quickcodestudio.quickblogger:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.quickcodestudio.quickblogger:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.quickcodestudio.quickblogger:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.quickcodestudio.quickblogger:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.quickcodestudio.quickblogger:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.quickcodestudio.quickblogger:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.quickcodestudio.quickblogger:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.quickcodestudio.quickblogger:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.quickcodestudio.quickblogger:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.quickcodestudio.quickblogger:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.quickcodestudio.quickblogger:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.quickcodestudio.quickblogger:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.quickcodestudio.quickblogger:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.quickcodestudio.quickblogger:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -6393,7 +6401,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6401,11 +6409,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionBarDivider
+     * @attr name com.quickcodestudio.quickblogger:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6413,11 +6421,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionBarItemBackground
+     * @attr name com.quickcodestudio.quickblogger:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6425,11 +6433,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionBarPopupTheme
+     * @attr name com.quickcodestudio.quickblogger:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6446,11 +6454,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:actionBarSize
+     * @attr name com.quickcodestudio.quickblogger:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6458,11 +6466,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionBarSplitStyle
+     * @attr name com.quickcodestudio.quickblogger:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6470,11 +6478,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionBarStyle
+     * @attr name com.quickcodestudio.quickblogger:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6482,11 +6490,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionBarTabBarStyle
+     * @attr name com.quickcodestudio.quickblogger:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6494,11 +6502,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionBarTabStyle
+     * @attr name com.quickcodestudio.quickblogger:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6506,11 +6514,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionBarTabTextStyle
+     * @attr name com.quickcodestudio.quickblogger:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6518,11 +6526,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionBarTheme
+     * @attr name com.quickcodestudio.quickblogger:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6530,11 +6538,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionBarWidgetTheme
+     * @attr name com.quickcodestudio.quickblogger:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6542,11 +6550,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionButtonStyle
+     * @attr name com.quickcodestudio.quickblogger:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6554,11 +6562,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionDropDownStyle
+     * @attr name com.quickcodestudio.quickblogger:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6566,11 +6574,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionMenuTextAppearance
+     * @attr name com.quickcodestudio.quickblogger:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6581,11 +6589,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionMenuTextColor
+     * @attr name com.quickcodestudio.quickblogger:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6593,11 +6601,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionModeBackground
+     * @attr name com.quickcodestudio.quickblogger:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6605,11 +6613,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionModeCloseButtonStyle
+     * @attr name com.quickcodestudio.quickblogger:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6617,11 +6625,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionModeCloseDrawable
+     * @attr name com.quickcodestudio.quickblogger:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6629,11 +6637,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionModeCopyDrawable
+     * @attr name com.quickcodestudio.quickblogger:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6641,11 +6649,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionModeCutDrawable
+     * @attr name com.quickcodestudio.quickblogger:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6653,11 +6661,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionModeFindDrawable
+     * @attr name com.quickcodestudio.quickblogger:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6665,11 +6673,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionModePasteDrawable
+     * @attr name com.quickcodestudio.quickblogger:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6677,11 +6685,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionModePopupWindowStyle
+     * @attr name com.quickcodestudio.quickblogger:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6689,11 +6697,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionModeSelectAllDrawable
+     * @attr name com.quickcodestudio.quickblogger:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6701,11 +6709,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionModeShareDrawable
+     * @attr name com.quickcodestudio.quickblogger:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6713,11 +6721,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionModeSplitBackground
+     * @attr name com.quickcodestudio.quickblogger:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6725,11 +6733,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionModeStyle
+     * @attr name com.quickcodestudio.quickblogger:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6737,11 +6745,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionModeWebSearchDrawable
+     * @attr name com.quickcodestudio.quickblogger:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6749,11 +6757,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionOverflowButtonStyle
+     * @attr name com.quickcodestudio.quickblogger:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6761,11 +6769,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionOverflowMenuStyle
+     * @attr name com.quickcodestudio.quickblogger:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6773,11 +6781,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:activityChooserViewStyle
+     * @attr name com.quickcodestudio.quickblogger:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6785,21 +6793,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:alertDialogButtonGroupStyle
+     * @attr name com.quickcodestudio.quickblogger:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:alertDialogCenterButtons
+     * @attr name com.quickcodestudio.quickblogger:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6807,11 +6815,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:alertDialogStyle
+     * @attr name com.quickcodestudio.quickblogger:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6819,11 +6827,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:alertDialogTheme
+     * @attr name com.quickcodestudio.quickblogger:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6831,11 +6839,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:autoCompleteTextViewStyle
+     * @attr name com.quickcodestudio.quickblogger:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6843,11 +6851,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:borderlessButtonStyle
+     * @attr name com.quickcodestudio.quickblogger:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6855,11 +6863,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:buttonBarButtonStyle
+     * @attr name com.quickcodestudio.quickblogger:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6867,11 +6875,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:buttonBarNegativeButtonStyle
+     * @attr name com.quickcodestudio.quickblogger:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6879,11 +6887,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:buttonBarNeutralButtonStyle
+     * @attr name com.quickcodestudio.quickblogger:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6891,11 +6899,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:buttonBarPositiveButtonStyle
+     * @attr name com.quickcodestudio.quickblogger:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6903,11 +6911,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:buttonBarStyle
+     * @attr name com.quickcodestudio.quickblogger:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6915,11 +6923,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:buttonStyle
+     * @attr name com.quickcodestudio.quickblogger:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6927,11 +6935,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:buttonStyleSmall
+     * @attr name com.quickcodestudio.quickblogger:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6939,11 +6947,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:checkboxStyle
+     * @attr name com.quickcodestudio.quickblogger:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6951,77 +6959,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:checkedTextViewStyle
+     * @attr name com.quickcodestudio.quickblogger:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:colorAccent
+     * @attr name com.quickcodestudio.quickblogger:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:colorBackgroundFloating
+     * @attr name com.quickcodestudio.quickblogger:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:colorButtonNormal
+     * @attr name com.quickcodestudio.quickblogger:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:colorControlActivated
+     * @attr name com.quickcodestudio.quickblogger:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:colorControlHighlight
+     * @attr name com.quickcodestudio.quickblogger:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:colorControlNormal
+     * @attr name com.quickcodestudio.quickblogger:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7032,44 +7040,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:colorError
+     * @attr name com.quickcodestudio.quickblogger:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:colorPrimary
+     * @attr name com.quickcodestudio.quickblogger:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:colorPrimaryDark
+     * @attr name com.quickcodestudio.quickblogger:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:colorSwitchThumbNormal
+     * @attr name com.quickcodestudio.quickblogger:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7077,11 +7085,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:controlBackground
+     * @attr name com.quickcodestudio.quickblogger:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7090,11 +7098,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:dialogPreferredPadding
+     * @attr name com.quickcodestudio.quickblogger:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7102,11 +7110,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:dialogTheme
+     * @attr name com.quickcodestudio.quickblogger:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7114,11 +7122,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:dividerHorizontal
+     * @attr name com.quickcodestudio.quickblogger:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7126,11 +7134,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:dividerVertical
+     * @attr name com.quickcodestudio.quickblogger:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7138,11 +7146,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:dropDownListViewStyle
+     * @attr name com.quickcodestudio.quickblogger:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7151,11 +7159,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:dropdownListPreferredItemHeight
+     * @attr name com.quickcodestudio.quickblogger:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7163,11 +7171,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:editTextBackground
+     * @attr name com.quickcodestudio.quickblogger:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7178,11 +7186,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:editTextColor
+     * @attr name com.quickcodestudio.quickblogger:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7190,11 +7198,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:editTextStyle
+     * @attr name com.quickcodestudio.quickblogger:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7202,11 +7210,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:homeAsUpIndicator
+     * @attr name com.quickcodestudio.quickblogger:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7214,11 +7222,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:imageButtonStyle
+     * @attr name com.quickcodestudio.quickblogger:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7226,11 +7234,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:listChoiceBackgroundIndicator
+     * @attr name com.quickcodestudio.quickblogger:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7238,11 +7246,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:listDividerAlertDialog
+     * @attr name com.quickcodestudio.quickblogger:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7250,11 +7258,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:listMenuViewStyle
+     * @attr name com.quickcodestudio.quickblogger:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7262,11 +7270,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:listPopupWindowStyle
+     * @attr name com.quickcodestudio.quickblogger:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7275,11 +7283,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:listPreferredItemHeight
+     * @attr name com.quickcodestudio.quickblogger:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7288,11 +7296,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:listPreferredItemHeightLarge
+     * @attr name com.quickcodestudio.quickblogger:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7301,11 +7309,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:listPreferredItemHeightSmall
+     * @attr name com.quickcodestudio.quickblogger:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7314,11 +7322,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:listPreferredItemPaddingLeft
+     * @attr name com.quickcodestudio.quickblogger:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7327,11 +7335,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:listPreferredItemPaddingRight
+     * @attr name com.quickcodestudio.quickblogger:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7339,11 +7347,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:panelBackground
+     * @attr name com.quickcodestudio.quickblogger:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7351,11 +7359,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:panelMenuListTheme
+     * @attr name com.quickcodestudio.quickblogger:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7364,11 +7372,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:panelMenuListWidth
+     * @attr name com.quickcodestudio.quickblogger:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7376,11 +7384,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:popupMenuStyle
+     * @attr name com.quickcodestudio.quickblogger:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7388,11 +7396,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:popupWindowStyle
+     * @attr name com.quickcodestudio.quickblogger:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7400,11 +7408,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:radioButtonStyle
+     * @attr name com.quickcodestudio.quickblogger:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7412,11 +7420,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:ratingBarStyle
+     * @attr name com.quickcodestudio.quickblogger:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7424,11 +7432,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:ratingBarStyleIndicator
+     * @attr name com.quickcodestudio.quickblogger:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7436,11 +7444,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:ratingBarStyleSmall
+     * @attr name com.quickcodestudio.quickblogger:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7448,11 +7456,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:searchViewStyle
+     * @attr name com.quickcodestudio.quickblogger:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7460,11 +7468,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:seekBarStyle
+     * @attr name com.quickcodestudio.quickblogger:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7472,11 +7480,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:selectableItemBackground
+     * @attr name com.quickcodestudio.quickblogger:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7484,11 +7492,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:selectableItemBackgroundBorderless
+     * @attr name com.quickcodestudio.quickblogger:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7496,11 +7504,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:spinnerDropDownItemStyle
+     * @attr name com.quickcodestudio.quickblogger:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7508,11 +7516,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:spinnerStyle
+     * @attr name com.quickcodestudio.quickblogger:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7520,11 +7528,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:switchStyle
+     * @attr name com.quickcodestudio.quickblogger:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7532,11 +7540,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:textAppearanceLargePopupMenu
+     * @attr name com.quickcodestudio.quickblogger:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7544,11 +7552,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:textAppearanceListItem
+     * @attr name com.quickcodestudio.quickblogger:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7556,11 +7564,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:textAppearanceListItemSecondary
+     * @attr name com.quickcodestudio.quickblogger:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7568,11 +7576,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:textAppearanceListItemSmall
+     * @attr name com.quickcodestudio.quickblogger:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7580,11 +7588,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:textAppearancePopupMenuHeader
+     * @attr name com.quickcodestudio.quickblogger:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7592,11 +7600,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:textAppearanceSearchResultSubtitle
+     * @attr name com.quickcodestudio.quickblogger:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7604,11 +7612,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:textAppearanceSearchResultTitle
+     * @attr name com.quickcodestudio.quickblogger:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7616,11 +7624,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:textAppearanceSmallPopupMenu
+     * @attr name com.quickcodestudio.quickblogger:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7631,11 +7639,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:textColorAlertDialogListItem
+     * @attr name com.quickcodestudio.quickblogger:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7646,11 +7654,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:textColorSearchUrl
+     * @attr name com.quickcodestudio.quickblogger:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7658,11 +7666,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:toolbarNavigationButtonStyle
+     * @attr name com.quickcodestudio.quickblogger:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7670,11 +7678,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:toolbarStyle
+     * @attr name com.quickcodestudio.quickblogger:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7685,11 +7693,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:tooltipForegroundColor
+     * @attr name com.quickcodestudio.quickblogger:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7697,41 +7705,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:tooltipFrameBackground
+     * @attr name com.quickcodestudio.quickblogger:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:windowActionBar
+     * @attr name com.quickcodestudio.quickblogger:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=109;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:windowActionBarOverlay
+     * @attr name com.quickcodestudio.quickblogger:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=110;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:windowActionModeOverlay
+     * @attr name com.quickcodestudio.quickblogger:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=111;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7744,11 +7752,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.jideguru.quickblogger:windowFixedHeightMajor
+     * @attr name com.quickcodestudio.quickblogger:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=112;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7761,11 +7769,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.jideguru.quickblogger:windowFixedHeightMinor
+     * @attr name com.quickcodestudio.quickblogger:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=113;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7778,11 +7786,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.jideguru.quickblogger:windowFixedWidthMajor
+     * @attr name com.quickcodestudio.quickblogger:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=114;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7795,11 +7803,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.jideguru.quickblogger:windowFixedWidthMinor
+     * @attr name com.quickcodestudio.quickblogger:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=115;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7812,11 +7820,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.jideguru.quickblogger:windowMinWidthMajor
+     * @attr name com.quickcodestudio.quickblogger:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=116;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7829,17 +7837,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.jideguru.quickblogger:windowMinWidthMinor
+     * @attr name com.quickcodestudio.quickblogger:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=117;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:windowNoTitle
+     * @attr name com.quickcodestudio.quickblogger:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=118;
     /**
@@ -7849,11 +7857,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation com.jideguru.quickblogger:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.jideguru.quickblogger:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.jideguru.quickblogger:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.jideguru.quickblogger:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu com.jideguru.quickblogger:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.quickcodestudio.quickblogger:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.quickcodestudio.quickblogger:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.quickcodestudio.quickblogger:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.quickcodestudio.quickblogger:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.quickcodestudio.quickblogger:menu}</code></td><td></td></tr>
      * </table>
      * @see #BottomNavigationView_elevation
      * @see #BottomNavigationView_itemBackground
@@ -7866,7 +7874,7 @@ public final class R {
         0x7f030117
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#elevation}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7875,11 +7883,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:elevation
+     * @attr name com.quickcodestudio.quickblogger:elevation
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7887,33 +7895,33 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:itemBackground
+     * @attr name com.quickcodestudio.quickblogger:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:itemIconTint
+     * @attr name com.quickcodestudio.quickblogger:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:itemTextColor
+     * @attr name com.quickcodestudio.quickblogger:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7921,7 +7929,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:menu
+     * @attr name com.quickcodestudio.quickblogger:menu
      */
     public static final int BottomNavigationView_menu=4;
     /**
@@ -7931,9 +7939,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.jideguru.quickblogger:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.jideguru.quickblogger:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.jideguru.quickblogger:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.quickcodestudio.quickblogger:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.quickcodestudio.quickblogger:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.quickcodestudio.quickblogger:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_hideable
      * @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -7943,17 +7951,17 @@ public final class R {
         0x7f03003a, 0x7f03003c, 0x7f03003d
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:behavior_hideable
+     * @attr name com.quickcodestudio.quickblogger:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7970,17 +7978,17 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:behavior_peekHeight
+     * @attr name com.quickcodestudio.quickblogger:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:behavior_skipCollapsed
+     * @attr name com.quickcodestudio.quickblogger:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=2;
     /**
@@ -7990,7 +7998,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.jideguru.quickblogger:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.quickcodestudio.quickblogger:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -7998,13 +8006,13 @@ public final class R {
         0x7f030026
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:allowStacking
+     * @attr name com.quickcodestudio.quickblogger:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -8016,17 +8024,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor com.jideguru.quickblogger:cardBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius com.jideguru.quickblogger:cardCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation com.jideguru.quickblogger:cardElevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation com.jideguru.quickblogger:cardMaxElevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.jideguru.quickblogger:cardPreventCornerOverlap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.jideguru.quickblogger:cardUseCompatPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding com.jideguru.quickblogger:contentPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom com.jideguru.quickblogger:contentPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft com.jideguru.quickblogger:contentPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight com.jideguru.quickblogger:contentPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop com.jideguru.quickblogger:contentPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor com.quickcodestudio.quickblogger:cardBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius com.quickcodestudio.quickblogger:cardCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation com.quickcodestudio.quickblogger:cardElevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation com.quickcodestudio.quickblogger:cardMaxElevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.quickcodestudio.quickblogger:cardPreventCornerOverlap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.quickcodestudio.quickblogger:cardUseCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding com.quickcodestudio.quickblogger:contentPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom com.quickcodestudio.quickblogger:contentPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft com.quickcodestudio.quickblogger:contentPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight com.quickcodestudio.quickblogger:contentPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop com.quickcodestudio.quickblogger:contentPaddingTop}</code></td><td></td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -8075,18 +8083,18 @@ public final class R {
      */
     public static final int CardView_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#cardBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#cardBackgroundColor}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:cardBackgroundColor
+     * @attr name com.quickcodestudio.quickblogger:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#cardCornerRadius}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#cardCornerRadius}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8095,11 +8103,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:cardCornerRadius
+     * @attr name com.quickcodestudio.quickblogger:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#cardElevation}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#cardElevation}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8108,11 +8116,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:cardElevation
+     * @attr name com.quickcodestudio.quickblogger:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#cardMaxElevation}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#cardMaxElevation}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8121,31 +8129,31 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:cardMaxElevation
+     * @attr name com.quickcodestudio.quickblogger:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#cardPreventCornerOverlap}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#cardPreventCornerOverlap}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:cardPreventCornerOverlap
+     * @attr name com.quickcodestudio.quickblogger:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#cardUseCompatPadding}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#cardUseCompatPadding}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:cardUseCompatPadding
+     * @attr name com.quickcodestudio.quickblogger:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentPadding}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentPadding}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8154,11 +8162,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentPadding
+     * @attr name com.quickcodestudio.quickblogger:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentPaddingBottom}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8167,11 +8175,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentPaddingBottom
+     * @attr name com.quickcodestudio.quickblogger:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentPaddingLeft}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8180,11 +8188,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentPaddingLeft
+     * @attr name com.quickcodestudio.quickblogger:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentPaddingRight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentPaddingRight}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8193,11 +8201,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentPaddingRight
+     * @attr name com.quickcodestudio.quickblogger:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentPaddingTop}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentPaddingTop}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8206,7 +8214,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentPaddingTop
+     * @attr name com.quickcodestudio.quickblogger:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -8216,22 +8224,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.jideguru.quickblogger:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.jideguru.quickblogger:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.jideguru.quickblogger:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.jideguru.quickblogger:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.jideguru.quickblogger:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.jideguru.quickblogger:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.jideguru.quickblogger:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.jideguru.quickblogger:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.jideguru.quickblogger:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.jideguru.quickblogger:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.jideguru.quickblogger:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.jideguru.quickblogger:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.jideguru.quickblogger:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.jideguru.quickblogger:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.jideguru.quickblogger:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.jideguru.quickblogger:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.quickcodestudio.quickblogger:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.quickcodestudio.quickblogger:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.quickcodestudio.quickblogger:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.quickcodestudio.quickblogger:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.quickcodestudio.quickblogger:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.quickcodestudio.quickblogger:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.quickcodestudio.quickblogger:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.quickcodestudio.quickblogger:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.quickcodestudio.quickblogger:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.quickcodestudio.quickblogger:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.quickcodestudio.quickblogger:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.quickcodestudio.quickblogger:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.quickcodestudio.quickblogger:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.quickcodestudio.quickblogger:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.quickcodestudio.quickblogger:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.quickcodestudio.quickblogger:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -8257,7 +8265,7 @@ public final class R {
         0x7f030152, 0x7f030184, 0x7f030185, 0x7f03018f
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8278,11 +8286,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:collapsedTitleGravity
+     * @attr name com.quickcodestudio.quickblogger:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8290,22 +8298,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:collapsedTitleTextAppearance
+     * @attr name com.quickcodestudio.quickblogger:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:contentScrim
+     * @attr name com.quickcodestudio.quickblogger:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8326,11 +8334,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:expandedTitleGravity
+     * @attr name com.quickcodestudio.quickblogger:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8339,11 +8347,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:expandedTitleMargin
+     * @attr name com.quickcodestudio.quickblogger:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8352,11 +8360,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:expandedTitleMarginBottom
+     * @attr name com.quickcodestudio.quickblogger:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8365,11 +8373,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:expandedTitleMarginEnd
+     * @attr name com.quickcodestudio.quickblogger:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8378,11 +8386,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:expandedTitleMarginStart
+     * @attr name com.quickcodestudio.quickblogger:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8391,11 +8399,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:expandedTitleMarginTop
+     * @attr name com.quickcodestudio.quickblogger:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8403,20 +8411,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:expandedTitleTextAppearance
+     * @attr name com.quickcodestudio.quickblogger:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:scrimAnimationDuration
+     * @attr name com.quickcodestudio.quickblogger:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8425,42 +8433,42 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:scrimVisibleHeightTrigger
+     * @attr name com.quickcodestudio.quickblogger:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:statusBarScrim
+     * @attr name com.quickcodestudio.quickblogger:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:title
+     * @attr name com.quickcodestudio.quickblogger:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:titleEnabled
+     * @attr name com.quickcodestudio.quickblogger:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8468,7 +8476,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:toolbarId
+     * @attr name com.quickcodestudio.quickblogger:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -8478,8 +8486,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.jideguru.quickblogger:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.jideguru.quickblogger:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.quickcodestudio.quickblogger:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.quickcodestudio.quickblogger:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -8488,7 +8496,7 @@ public final class R {
         0x7f0300ce, 0x7f0300cf
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8502,16 +8510,16 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_collapseMode
+     * @attr name com.quickcodestudio.quickblogger:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_collapseParallaxMultiplier
+     * @attr name com.quickcodestudio.quickblogger:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -8523,7 +8531,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.jideguru.quickblogger:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.quickcodestudio.quickblogger:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -8553,12 +8561,12 @@ public final class R {
      */
     public static final int ColorStateListItem_android_alpha=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:alpha
+     * @attr name com.quickcodestudio.quickblogger:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -8569,8 +8577,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.jideguru.quickblogger:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.jideguru.quickblogger:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.quickcodestudio.quickblogger:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.quickcodestudio.quickblogger:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -8592,18 +8600,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:buttonTint
+     * @attr name com.quickcodestudio.quickblogger:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8619,7 +8627,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:buttonTintMode
+     * @attr name com.quickcodestudio.quickblogger:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -8634,61 +8642,61 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.jideguru.quickblogger:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.jideguru.quickblogger:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.jideguru.quickblogger:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.jideguru.quickblogger:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.jideguru.quickblogger:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.jideguru.quickblogger:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.jideguru.quickblogger:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.jideguru.quickblogger:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.jideguru.quickblogger:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.jideguru.quickblogger:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.jideguru.quickblogger:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.jideguru.quickblogger:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.jideguru.quickblogger:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.jideguru.quickblogger:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.jideguru.quickblogger:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.jideguru.quickblogger:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.jideguru.quickblogger:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.jideguru.quickblogger:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.jideguru.quickblogger:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.jideguru.quickblogger:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.jideguru.quickblogger:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.jideguru.quickblogger:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.jideguru.quickblogger:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.jideguru.quickblogger:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.jideguru.quickblogger:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.jideguru.quickblogger:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.jideguru.quickblogger:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.jideguru.quickblogger:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.jideguru.quickblogger:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.jideguru.quickblogger:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.jideguru.quickblogger:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.jideguru.quickblogger:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.jideguru.quickblogger:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.jideguru.quickblogger:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.jideguru.quickblogger:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.jideguru.quickblogger:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.jideguru.quickblogger:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.jideguru.quickblogger:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.jideguru.quickblogger:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.jideguru.quickblogger:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.jideguru.quickblogger:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.jideguru.quickblogger:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.jideguru.quickblogger:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.jideguru.quickblogger:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.jideguru.quickblogger:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.jideguru.quickblogger:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.jideguru.quickblogger:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.jideguru.quickblogger:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.jideguru.quickblogger:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.jideguru.quickblogger:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.jideguru.quickblogger:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.jideguru.quickblogger:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.jideguru.quickblogger:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.jideguru.quickblogger:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.jideguru.quickblogger:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.quickcodestudio.quickblogger:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.quickcodestudio.quickblogger:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.quickcodestudio.quickblogger:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.quickcodestudio.quickblogger:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.quickcodestudio.quickblogger:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.quickcodestudio.quickblogger:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.quickcodestudio.quickblogger:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.quickcodestudio.quickblogger:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.quickcodestudio.quickblogger:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.quickcodestudio.quickblogger:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.quickcodestudio.quickblogger:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.quickcodestudio.quickblogger:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.quickcodestudio.quickblogger:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.quickcodestudio.quickblogger:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.quickcodestudio.quickblogger:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.quickcodestudio.quickblogger:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.quickcodestudio.quickblogger:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.quickcodestudio.quickblogger:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.quickcodestudio.quickblogger:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.quickcodestudio.quickblogger:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.quickcodestudio.quickblogger:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.quickcodestudio.quickblogger:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.quickcodestudio.quickblogger:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.quickcodestudio.quickblogger:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.quickcodestudio.quickblogger:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.quickcodestudio.quickblogger:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.quickcodestudio.quickblogger:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.quickcodestudio.quickblogger:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.quickcodestudio.quickblogger:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.quickcodestudio.quickblogger:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.quickcodestudio.quickblogger:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.quickcodestudio.quickblogger:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.quickcodestudio.quickblogger:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.quickcodestudio.quickblogger:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.quickcodestudio.quickblogger:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.quickcodestudio.quickblogger:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.quickcodestudio.quickblogger:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.quickcodestudio.quickblogger:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.quickcodestudio.quickblogger:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.quickcodestudio.quickblogger:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.quickcodestudio.quickblogger:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.quickcodestudio.quickblogger:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.quickcodestudio.quickblogger:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.quickcodestudio.quickblogger:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.quickcodestudio.quickblogger:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.quickcodestudio.quickblogger:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.quickcodestudio.quickblogger:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.quickcodestudio.quickblogger:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.quickcodestudio.quickblogger:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.quickcodestudio.quickblogger:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.quickcodestudio.quickblogger:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.quickcodestudio.quickblogger:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.quickcodestudio.quickblogger:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.quickcodestudio.quickblogger:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.quickcodestudio.quickblogger:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -8838,17 +8846,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_minHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:barrierAllowsGoneWidgets
+     * @attr name com.quickcodestudio.quickblogger:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8865,21 +8873,21 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:barrierDirection
+     * @attr name com.quickcodestudio.quickblogger:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:chainUseRtl
+     * @attr name com.quickcodestudio.quickblogger:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8887,50 +8895,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:constraintSet
+     * @attr name com.quickcodestudio.quickblogger:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:constraint_referenced_ids
+     * @attr name com.quickcodestudio.quickblogger:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constrainedHeight
+     * @attr name com.quickcodestudio.quickblogger:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constrainedWidth
+     * @attr name com.quickcodestudio.quickblogger:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintBaseline_creator
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8946,20 +8954,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintBaseline_toBaselineOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintBottom_creator
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8975,11 +8983,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintBottom_toBottomOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8995,11 +9003,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintBottom_toTopOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9007,20 +9015,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintCircle
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintCircleAngle
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9029,21 +9037,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintCircleRadius
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintDimensionRatio
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9059,11 +9067,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintEnd_toEndOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9079,11 +9087,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintEnd_toStartOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9092,11 +9100,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintGuide_begin
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9105,20 +9113,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintGuide_end
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintGuide_percent
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9132,11 +9140,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHeight_default
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9153,11 +9161,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHeight_max
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9174,29 +9182,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHeight_min
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHeight_percent
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHorizontal_bias
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9210,29 +9218,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHorizontal_chainStyle
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHorizontal_weight
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintLeft_creator
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9248,11 +9256,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintLeft_toLeftOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9268,20 +9276,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintLeft_toRightOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintRight_creator
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9297,11 +9305,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintRight_toLeftOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9317,11 +9325,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintRight_toRightOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9337,11 +9345,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintStart_toEndOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9357,20 +9365,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintStart_toStartOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintTop_creator
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9386,11 +9394,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintTop_toBottomOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9406,20 +9414,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintTop_toTopOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintVertical_bias
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9433,20 +9441,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintVertical_chainStyle
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintVertical_weight
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9460,11 +9468,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintWidth_default
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9481,11 +9489,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintWidth_max
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9502,20 +9510,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintWidth_min
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintWidth_percent
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9524,11 +9532,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_editor_absoluteX
+     * @attr name com.quickcodestudio.quickblogger:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9537,11 +9545,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_editor_absoluteY
+     * @attr name com.quickcodestudio.quickblogger:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9550,11 +9558,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_goneMarginBottom
+     * @attr name com.quickcodestudio.quickblogger:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9563,11 +9571,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_goneMarginEnd
+     * @attr name com.quickcodestudio.quickblogger:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9576,11 +9584,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_goneMarginLeft
+     * @attr name com.quickcodestudio.quickblogger:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9589,11 +9597,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_goneMarginRight
+     * @attr name com.quickcodestudio.quickblogger:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9602,11 +9610,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_goneMarginStart
+     * @attr name com.quickcodestudio.quickblogger:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9615,11 +9623,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_goneMarginTop
+     * @attr name com.quickcodestudio.quickblogger:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9637,7 +9645,7 @@ public final class R {
      * <tr><td>standard</td><td>7</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_optimizationLevel
+     * @attr name com.quickcodestudio.quickblogger:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=59;
     /**
@@ -9647,8 +9655,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.jideguru.quickblogger:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.jideguru.quickblogger:emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.quickcodestudio.quickblogger:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.quickcodestudio.quickblogger:emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_emptyVisibility
@@ -9657,7 +9665,7 @@ public final class R {
         0x7f03006d, 0x7f030091
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#content}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9665,11 +9673,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:content
+     * @attr name com.quickcodestudio.quickblogger:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9682,7 +9690,7 @@ public final class R {
      * <tr><td>invisible</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:emptyVisibility
+     * @attr name com.quickcodestudio.quickblogger:emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_emptyVisibility=1;
     /**
@@ -9719,59 +9727,59 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.jideguru.quickblogger:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.jideguru.quickblogger:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.jideguru.quickblogger:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.jideguru.quickblogger:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.jideguru.quickblogger:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.jideguru.quickblogger:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.jideguru.quickblogger:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.jideguru.quickblogger:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.jideguru.quickblogger:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.jideguru.quickblogger:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.jideguru.quickblogger:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.jideguru.quickblogger:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.jideguru.quickblogger:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.jideguru.quickblogger:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.jideguru.quickblogger:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.jideguru.quickblogger:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.jideguru.quickblogger:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.jideguru.quickblogger:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.jideguru.quickblogger:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.jideguru.quickblogger:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.jideguru.quickblogger:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.jideguru.quickblogger:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.jideguru.quickblogger:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.jideguru.quickblogger:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.jideguru.quickblogger:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.jideguru.quickblogger:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.jideguru.quickblogger:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.jideguru.quickblogger:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.jideguru.quickblogger:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.jideguru.quickblogger:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.jideguru.quickblogger:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.jideguru.quickblogger:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.jideguru.quickblogger:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.jideguru.quickblogger:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.jideguru.quickblogger:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.jideguru.quickblogger:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.jideguru.quickblogger:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.jideguru.quickblogger:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.jideguru.quickblogger:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.jideguru.quickblogger:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.jideguru.quickblogger:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.jideguru.quickblogger:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.jideguru.quickblogger:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.jideguru.quickblogger:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.jideguru.quickblogger:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.jideguru.quickblogger:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.jideguru.quickblogger:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.jideguru.quickblogger:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.jideguru.quickblogger:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.jideguru.quickblogger:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.jideguru.quickblogger:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.jideguru.quickblogger:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.jideguru.quickblogger:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.quickcodestudio.quickblogger:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.quickcodestudio.quickblogger:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.quickcodestudio.quickblogger:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.quickcodestudio.quickblogger:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.quickcodestudio.quickblogger:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.quickcodestudio.quickblogger:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.quickcodestudio.quickblogger:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.quickcodestudio.quickblogger:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.quickcodestudio.quickblogger:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.quickcodestudio.quickblogger:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.quickcodestudio.quickblogger:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.quickcodestudio.quickblogger:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.quickcodestudio.quickblogger:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.quickcodestudio.quickblogger:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.quickcodestudio.quickblogger:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.quickcodestudio.quickblogger:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.quickcodestudio.quickblogger:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.quickcodestudio.quickblogger:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.quickcodestudio.quickblogger:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.quickcodestudio.quickblogger:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.quickcodestudio.quickblogger:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.quickcodestudio.quickblogger:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.quickcodestudio.quickblogger:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.quickcodestudio.quickblogger:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.quickcodestudio.quickblogger:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.quickcodestudio.quickblogger:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.quickcodestudio.quickblogger:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.quickcodestudio.quickblogger:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.quickcodestudio.quickblogger:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.quickcodestudio.quickblogger:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.quickcodestudio.quickblogger:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.quickcodestudio.quickblogger:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.quickcodestudio.quickblogger:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.quickcodestudio.quickblogger:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.quickcodestudio.quickblogger:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.quickcodestudio.quickblogger:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.quickcodestudio.quickblogger:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.quickcodestudio.quickblogger:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.quickcodestudio.quickblogger:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.quickcodestudio.quickblogger:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.quickcodestudio.quickblogger:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.quickcodestudio.quickblogger:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.quickcodestudio.quickblogger:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.quickcodestudio.quickblogger:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.quickcodestudio.quickblogger:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.quickcodestudio.quickblogger:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.quickcodestudio.quickblogger:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.quickcodestudio.quickblogger:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.quickcodestudio.quickblogger:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.quickcodestudio.quickblogger:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.quickcodestudio.quickblogger:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.quickcodestudio.quickblogger:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.quickcodestudio.quickblogger:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -10232,17 +10240,17 @@ public final class R {
      */
     public static final int ConstraintSet_android_elevation=26;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:barrierAllowsGoneWidgets
+     * @attr name com.quickcodestudio.quickblogger:barrierAllowsGoneWidgets
      */
     public static final int ConstraintSet_barrierAllowsGoneWidgets=27;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10259,60 +10267,60 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:barrierDirection
+     * @attr name com.quickcodestudio.quickblogger:barrierDirection
      */
     public static final int ConstraintSet_barrierDirection=28;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:chainUseRtl
+     * @attr name com.quickcodestudio.quickblogger:chainUseRtl
      */
     public static final int ConstraintSet_chainUseRtl=29;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:constraint_referenced_ids
+     * @attr name com.quickcodestudio.quickblogger:constraint_referenced_ids
      */
     public static final int ConstraintSet_constraint_referenced_ids=30;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constrainedHeight
+     * @attr name com.quickcodestudio.quickblogger:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=31;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constrainedWidth
+     * @attr name com.quickcodestudio.quickblogger:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=32;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintBaseline_creator
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10328,20 +10336,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintBaseline_toBaselineOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintBottom_creator
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=35;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10357,11 +10365,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintBottom_toBottomOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=36;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10377,11 +10385,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintBottom_toTopOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10389,20 +10397,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintCircle
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintCircleAngle
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10411,21 +10419,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintCircleRadius
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=40;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintDimensionRatio
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=41;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10441,11 +10449,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintEnd_toEndOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10461,11 +10469,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintEnd_toStartOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10474,11 +10482,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintGuide_begin
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=44;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10487,20 +10495,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintGuide_end
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=45;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintGuide_percent
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=46;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10514,11 +10522,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHeight_default
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10535,11 +10543,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHeight_max
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10556,29 +10564,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHeight_min
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHeight_percent
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHorizontal_bias
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=51;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10592,29 +10600,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHorizontal_chainStyle
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=52;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintHorizontal_weight
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=53;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintLeft_creator
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10630,11 +10638,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintLeft_toLeftOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=55;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10650,20 +10658,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintLeft_toRightOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=56;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintRight_creator
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=57;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10679,11 +10687,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintRight_toLeftOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=58;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10699,11 +10707,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintRight_toRightOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=59;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10719,11 +10727,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintStart_toEndOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=60;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10739,20 +10747,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintStart_toStartOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=61;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintTop_creator
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=62;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10768,11 +10776,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintTop_toBottomOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=63;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10788,20 +10796,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintTop_toTopOf
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=64;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintVertical_bias
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=65;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10815,20 +10823,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintVertical_chainStyle
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintVertical_weight
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=67;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10842,11 +10850,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintWidth_default
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=68;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10863,11 +10871,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintWidth_max
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=69;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10884,20 +10892,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintWidth_min
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=70;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_constraintWidth_percent
+     * @attr name com.quickcodestudio.quickblogger:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=71;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10906,11 +10914,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_editor_absoluteX
+     * @attr name com.quickcodestudio.quickblogger:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=72;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10919,11 +10927,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_editor_absoluteY
+     * @attr name com.quickcodestudio.quickblogger:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=73;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10932,11 +10940,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_goneMarginBottom
+     * @attr name com.quickcodestudio.quickblogger:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=74;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10945,11 +10953,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_goneMarginEnd
+     * @attr name com.quickcodestudio.quickblogger:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=75;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10958,11 +10966,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_goneMarginLeft
+     * @attr name com.quickcodestudio.quickblogger:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10971,11 +10979,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_goneMarginRight
+     * @attr name com.quickcodestudio.quickblogger:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=77;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10984,11 +10992,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_goneMarginStart
+     * @attr name com.quickcodestudio.quickblogger:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=78;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10997,7 +11005,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:layout_goneMarginTop
+     * @attr name com.quickcodestudio.quickblogger:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=79;
     /**
@@ -11007,8 +11015,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.jideguru.quickblogger:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.jideguru.quickblogger:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.quickcodestudio.quickblogger:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.quickcodestudio.quickblogger:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -11017,7 +11025,7 @@ public final class R {
         0x7f0300c8, 0x7f030151
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11025,11 +11033,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:keylines
+     * @attr name com.quickcodestudio.quickblogger:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11037,7 +11045,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:statusBarBackground
+     * @attr name com.quickcodestudio.quickblogger:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -11048,12 +11056,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.jideguru.quickblogger:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.jideguru.quickblogger:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.jideguru.quickblogger:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.jideguru.quickblogger:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.jideguru.quickblogger:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.jideguru.quickblogger:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.quickcodestudio.quickblogger:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.quickcodestudio.quickblogger:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.quickcodestudio.quickblogger:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.quickcodestudio.quickblogger:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.quickcodestudio.quickblogger:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.quickcodestudio.quickblogger:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -11097,7 +11105,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11105,11 +11113,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_anchor
+     * @attr name com.quickcodestudio.quickblogger:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11134,21 +11142,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_anchorGravity
+     * @attr name com.quickcodestudio.quickblogger:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:layout_behavior
+     * @attr name com.quickcodestudio.quickblogger:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_dodgeInsetEdges}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11167,11 +11175,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_dodgeInsetEdges
+     * @attr name com.quickcodestudio.quickblogger:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_insetEdge}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11189,16 +11197,16 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:layout_insetEdge
+     * @attr name com.quickcodestudio.quickblogger:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:layout_keyline
+     * @attr name com.quickcodestudio.quickblogger:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -11208,9 +11216,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.jideguru.quickblogger:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.jideguru.quickblogger:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_textColorError com.jideguru.quickblogger:textColorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.quickcodestudio.quickblogger:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.quickcodestudio.quickblogger:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_textColorError com.quickcodestudio.quickblogger:textColorError}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -11220,7 +11228,7 @@ public final class R {
         0x7f030040, 0x7f030041, 0x7f030178
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11228,11 +11236,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:bottomSheetDialogTheme
+     * @attr name com.quickcodestudio.quickblogger:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11240,11 +11248,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:bottomSheetStyle
+     * @attr name com.quickcodestudio.quickblogger:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#textColorError}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#textColorError}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11255,7 +11263,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:textColorError
+     * @attr name com.quickcodestudio.quickblogger:textColorError
      */
     public static final int DesignTheme_textColorError=2;
     /**
@@ -11265,14 +11273,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.jideguru.quickblogger:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.jideguru.quickblogger:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.jideguru.quickblogger:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.jideguru.quickblogger:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.jideguru.quickblogger:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.jideguru.quickblogger:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.jideguru.quickblogger:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.jideguru.quickblogger:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.quickcodestudio.quickblogger:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.quickcodestudio.quickblogger:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.quickcodestudio.quickblogger:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.quickcodestudio.quickblogger:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.quickcodestudio.quickblogger:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.quickcodestudio.quickblogger:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.quickcodestudio.quickblogger:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.quickcodestudio.quickblogger:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -11288,7 +11296,7 @@ public final class R {
         0x7f030089, 0x7f0300ae, 0x7f030148, 0x7f03017b
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11297,11 +11305,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:arrowHeadLength
+     * @attr name com.quickcodestudio.quickblogger:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11310,11 +11318,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:arrowShaftLength
+     * @attr name com.quickcodestudio.quickblogger:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11323,22 +11331,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:barLength
+     * @attr name com.quickcodestudio.quickblogger:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:color
+     * @attr name com.quickcodestudio.quickblogger:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11347,11 +11355,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:drawableSize
+     * @attr name com.quickcodestudio.quickblogger:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11360,21 +11368,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:gapBetweenBars
+     * @attr name com.quickcodestudio.quickblogger:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:spinBars
+     * @attr name com.quickcodestudio.quickblogger:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11383,7 +11391,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:thickness
+     * @attr name com.quickcodestudio.quickblogger:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -11393,14 +11401,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.jideguru.quickblogger:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.jideguru.quickblogger:backgroundTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.jideguru.quickblogger:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation com.jideguru.quickblogger:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize com.jideguru.quickblogger:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.jideguru.quickblogger:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.jideguru.quickblogger:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.jideguru.quickblogger:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.quickcodestudio.quickblogger:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.quickcodestudio.quickblogger:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.quickcodestudio.quickblogger:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.quickcodestudio.quickblogger:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.quickcodestudio.quickblogger:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.quickcodestudio.quickblogger:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.quickcodestudio.quickblogger:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.quickcodestudio.quickblogger:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -11416,18 +11424,18 @@ public final class R {
         0x7f03009d, 0x7f03012e, 0x7f030138, 0x7f030198
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:backgroundTint
+     * @attr name com.quickcodestudio.quickblogger:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11443,11 +11451,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:backgroundTintMode
+     * @attr name com.quickcodestudio.quickblogger:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11456,11 +11464,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:borderWidth
+     * @attr name com.quickcodestudio.quickblogger:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#elevation}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11469,11 +11477,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:elevation
+     * @attr name com.quickcodestudio.quickblogger:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11487,11 +11495,11 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:fabSize
+     * @attr name com.quickcodestudio.quickblogger:fabSize
      */
     public static final int FloatingActionButton_fabSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11500,28 +11508,28 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:pressedTranslationZ
+     * @attr name com.quickcodestudio.quickblogger:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:rippleColor
+     * @attr name com.quickcodestudio.quickblogger:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:useCompatPadding
+     * @attr name com.quickcodestudio.quickblogger:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=7;
     /**
@@ -11531,7 +11539,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.jideguru.quickblogger:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.quickcodestudio.quickblogger:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -11539,13 +11547,13 @@ public final class R {
         0x7f030039
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:behavior_autoHide
+     * @attr name com.quickcodestudio.quickblogger:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -11555,12 +11563,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.jideguru.quickblogger:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.jideguru.quickblogger:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.jideguru.quickblogger:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.jideguru.quickblogger:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.jideguru.quickblogger:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.jideguru.quickblogger:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.quickcodestudio.quickblogger:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.quickcodestudio.quickblogger:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.quickcodestudio.quickblogger:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.quickcodestudio.quickblogger:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.quickcodestudio.quickblogger:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.quickcodestudio.quickblogger:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -11574,17 +11582,17 @@ public final class R {
         0x7f0300a9, 0x7f0300aa
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:fontProviderAuthority
+     * @attr name com.quickcodestudio.quickblogger:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11592,11 +11600,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:fontProviderCerts
+     * @attr name com.quickcodestudio.quickblogger:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11609,11 +11617,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:fontProviderFetchStrategy
+     * @attr name com.quickcodestudio.quickblogger:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -11626,27 +11634,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:fontProviderFetchTimeout
+     * @attr name com.quickcodestudio.quickblogger:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:fontProviderPackage
+     * @attr name com.quickcodestudio.quickblogger:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:fontProviderQuery
+     * @attr name com.quickcodestudio.quickblogger:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -11656,9 +11664,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.jideguru.quickblogger:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.jideguru.quickblogger:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.jideguru.quickblogger:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.quickcodestudio.quickblogger:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.quickcodestudio.quickblogger:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.quickcodestudio.quickblogger:fontWeight}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_font
      * @see #FontFamilyFont_fontStyle
@@ -11668,7 +11676,7 @@ public final class R {
         0x7f0300a3, 0x7f0300ab, 0x7f0300ac
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#font}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11676,11 +11684,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:font
+     * @attr name com.quickcodestudio.quickblogger:font
      */
     public static final int FontFamilyFont_font=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11693,16 +11701,16 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:fontStyle
+     * @attr name com.quickcodestudio.quickblogger:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:fontWeight
+     * @attr name com.quickcodestudio.quickblogger:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=2;
     /**
@@ -11714,7 +11722,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.jideguru.quickblogger:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.quickcodestudio.quickblogger:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -11766,13 +11774,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:foregroundInsidePadding
+     * @attr name com.quickcodestudio.quickblogger:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -11818,10 +11826,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.jideguru.quickblogger:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.jideguru.quickblogger:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.jideguru.quickblogger:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.jideguru.quickblogger:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.quickcodestudio.quickblogger:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.quickcodestudio.quickblogger:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.quickcodestudio.quickblogger:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.quickcodestudio.quickblogger:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -11913,7 +11921,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11921,11 +11929,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:divider
+     * @attr name com.quickcodestudio.quickblogger:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11934,21 +11942,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:dividerPadding
+     * @attr name com.quickcodestudio.quickblogger:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:measureWithLargestChild
+     * @attr name com.quickcodestudio.quickblogger:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11963,7 +11971,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:showDividers
+     * @attr name com.quickcodestudio.quickblogger:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -12119,9 +12127,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LoadingImageView_circleCrop com.jideguru.quickblogger:circleCrop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.jideguru.quickblogger:imageAspectRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.jideguru.quickblogger:imageAspectRatioAdjust}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_circleCrop com.quickcodestudio.quickblogger:circleCrop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.quickcodestudio.quickblogger:imageAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.quickcodestudio.quickblogger:imageAspectRatioAdjust}</code></td><td></td></tr>
      * </table>
      * @see #LoadingImageView_circleCrop
      * @see #LoadingImageView_imageAspectRatio
@@ -12131,26 +12139,26 @@ public final class R {
         0x7f030057, 0x7f0300bc, 0x7f0300bd
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#circleCrop}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#circleCrop}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:circleCrop
+     * @attr name com.quickcodestudio.quickblogger:circleCrop
      */
     public static final int LoadingImageView_circleCrop=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#imageAspectRatio}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#imageAspectRatio}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.jideguru.quickblogger:imageAspectRatio
+     * @attr name com.quickcodestudio.quickblogger:imageAspectRatio
      */
     public static final int LoadingImageView_imageAspectRatio=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#imageAspectRatioAdjust}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#imageAspectRatioAdjust}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12164,7 +12172,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:imageAspectRatioAdjust
+     * @attr name com.quickcodestudio.quickblogger:imageAspectRatioAdjust
      */
     public static final int LoadingImageView_imageAspectRatioAdjust=2;
     /**
@@ -12290,16 +12298,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.jideguru.quickblogger:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.jideguru.quickblogger:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.jideguru.quickblogger:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.jideguru.quickblogger:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.jideguru.quickblogger:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.jideguru.quickblogger:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.jideguru.quickblogger:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.jideguru.quickblogger:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.jideguru.quickblogger:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.jideguru.quickblogger:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.quickcodestudio.quickblogger:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.quickcodestudio.quickblogger:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.quickcodestudio.quickblogger:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.quickcodestudio.quickblogger:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.quickcodestudio.quickblogger:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.quickcodestudio.quickblogger:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.quickcodestudio.quickblogger:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.quickcodestudio.quickblogger:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.quickcodestudio.quickblogger:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.quickcodestudio.quickblogger:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -12476,7 +12484,7 @@ public final class R {
      */
     public static final int MenuItem_android_onClick=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12484,31 +12492,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:actionLayout
+     * @attr name com.quickcodestudio.quickblogger:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:actionProviderClass
+     * @attr name com.quickcodestudio.quickblogger:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:actionViewClass
+     * @attr name com.quickcodestudio.quickblogger:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12525,32 +12533,32 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:alphabeticModifiers
+     * @attr name com.quickcodestudio.quickblogger:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:contentDescription
+     * @attr name com.quickcodestudio.quickblogger:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:iconTint
+     * @attr name com.quickcodestudio.quickblogger:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12567,11 +12575,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:iconTintMode
+     * @attr name com.quickcodestudio.quickblogger:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12588,11 +12596,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:numericModifiers
+     * @attr name com.quickcodestudio.quickblogger:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12608,17 +12616,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:showAsAction
+     * @attr name com.quickcodestudio.quickblogger:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:tooltipText
+     * @attr name com.quickcodestudio.quickblogger:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -12635,8 +12643,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.jideguru.quickblogger:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.jideguru.quickblogger:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.quickcodestudio.quickblogger:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.quickcodestudio.quickblogger:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -12741,17 +12749,17 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:preserveIconSpacing
+     * @attr name com.quickcodestudio.quickblogger:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12759,7 +12767,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:subMenuArrow
+     * @attr name com.quickcodestudio.quickblogger:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -12772,13 +12780,13 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation com.jideguru.quickblogger:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout com.jideguru.quickblogger:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground com.jideguru.quickblogger:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint com.jideguru.quickblogger:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.jideguru.quickblogger:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor com.jideguru.quickblogger:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu com.jideguru.quickblogger:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.quickcodestudio.quickblogger:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.quickcodestudio.quickblogger:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.quickcodestudio.quickblogger:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.quickcodestudio.quickblogger:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.quickcodestudio.quickblogger:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.quickcodestudio.quickblogger:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.quickcodestudio.quickblogger:menu}</code></td><td></td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -12835,7 +12843,7 @@ public final class R {
      */
     public static final int NavigationView_android_maxWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#elevation}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12844,11 +12852,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:elevation
+     * @attr name com.quickcodestudio.quickblogger:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12856,11 +12864,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:headerLayout
+     * @attr name com.quickcodestudio.quickblogger:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12868,22 +12876,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:itemBackground
+     * @attr name com.quickcodestudio.quickblogger:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:itemIconTint
+     * @attr name com.quickcodestudio.quickblogger:itemIconTint
      */
     public static final int NavigationView_itemIconTint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12891,22 +12899,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:itemTextAppearance
+     * @attr name com.quickcodestudio.quickblogger:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:itemTextColor
+     * @attr name com.quickcodestudio.quickblogger:itemTextColor
      */
     public static final int NavigationView_itemTextColor=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12914,7 +12922,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:menu
+     * @attr name com.quickcodestudio.quickblogger:menu
      */
     public static final int NavigationView_menu=9;
     /**
@@ -12926,7 +12934,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.jideguru.quickblogger:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.quickcodestudio.quickblogger:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -12963,13 +12971,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:overlapAnchor
+     * @attr name com.quickcodestudio.quickblogger:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -12979,7 +12987,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.jideguru.quickblogger:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.quickcodestudio.quickblogger:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -12987,13 +12995,13 @@ public final class R {
         0x7f03014e
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:state_above_anchor
+     * @attr name com.quickcodestudio.quickblogger:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -13003,8 +13011,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.jideguru.quickblogger:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.jideguru.quickblogger:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.quickcodestudio.quickblogger:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.quickcodestudio.quickblogger:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -13013,7 +13021,7 @@ public final class R {
         0x7f03011e, 0x7f030121
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13022,11 +13030,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:paddingBottomNoButtons
+     * @attr name com.quickcodestudio.quickblogger:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13035,7 +13043,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:paddingTopNoTitle
+     * @attr name com.quickcodestudio.quickblogger:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -13047,15 +13055,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.jideguru.quickblogger:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.jideguru.quickblogger:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.jideguru.quickblogger:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.jideguru.quickblogger:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.jideguru.quickblogger:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.jideguru.quickblogger:layoutManager}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.jideguru.quickblogger:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.jideguru.quickblogger:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.jideguru.quickblogger:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.quickcodestudio.quickblogger:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.quickcodestudio.quickblogger:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.quickcodestudio.quickblogger:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.quickcodestudio.quickblogger:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.quickcodestudio.quickblogger:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.quickcodestudio.quickblogger:layoutManager}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.quickcodestudio.quickblogger:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.quickcodestudio.quickblogger:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.quickcodestudio.quickblogger:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -13110,17 +13118,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:fastScrollEnabled
+     * @attr name com.quickcodestudio.quickblogger:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13128,11 +13136,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:fastScrollHorizontalThumbDrawable
+     * @attr name com.quickcodestudio.quickblogger:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13140,11 +13148,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:fastScrollHorizontalTrackDrawable
+     * @attr name com.quickcodestudio.quickblogger:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13152,11 +13160,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:fastScrollVerticalThumbDrawable
+     * @attr name com.quickcodestudio.quickblogger:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13164,46 +13172,46 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:fastScrollVerticalTrackDrawable
+     * @attr name com.quickcodestudio.quickblogger:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layoutManager}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layoutManager}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:layoutManager
+     * @attr name com.quickcodestudio.quickblogger:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:reverseLayout
+     * @attr name com.quickcodestudio.quickblogger:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:spanCount
+     * @attr name com.quickcodestudio.quickblogger:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:stackFromEnd
+     * @attr name com.quickcodestudio.quickblogger:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -13213,7 +13221,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.jideguru.quickblogger:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.quickcodestudio.quickblogger:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -13221,7 +13229,7 @@ public final class R {
         0x7f0300c1
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13232,7 +13240,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:insetForeground
+     * @attr name com.quickcodestudio.quickblogger:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -13242,7 +13250,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.jideguru.quickblogger:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.quickcodestudio.quickblogger:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -13250,7 +13258,7 @@ public final class R {
         0x7f03003b
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13259,7 +13267,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:behavior_overlapTop
+     * @attr name com.quickcodestudio.quickblogger:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -13273,19 +13281,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.jideguru.quickblogger:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.jideguru.quickblogger:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.jideguru.quickblogger:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.jideguru.quickblogger:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.jideguru.quickblogger:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.jideguru.quickblogger:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.jideguru.quickblogger:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.jideguru.quickblogger:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.jideguru.quickblogger:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.jideguru.quickblogger:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.jideguru.quickblogger:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.jideguru.quickblogger:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.jideguru.quickblogger:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.quickcodestudio.quickblogger:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.quickcodestudio.quickblogger:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.quickcodestudio.quickblogger:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.quickcodestudio.quickblogger:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.quickcodestudio.quickblogger:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.quickcodestudio.quickblogger:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.quickcodestudio.quickblogger:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.quickcodestudio.quickblogger:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.quickcodestudio.quickblogger:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.quickcodestudio.quickblogger:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.quickcodestudio.quickblogger:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.quickcodestudio.quickblogger:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.quickcodestudio.quickblogger:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -13423,7 +13431,7 @@ public final class R {
      */
     public static final int SearchView_android_imeOptions=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13431,11 +13439,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:closeIcon
+     * @attr name com.quickcodestudio.quickblogger:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13443,21 +13451,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:commitIcon
+     * @attr name com.quickcodestudio.quickblogger:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:defaultQueryHint
+     * @attr name com.quickcodestudio.quickblogger:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13465,21 +13473,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:goIcon
+     * @attr name com.quickcodestudio.quickblogger:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:iconifiedByDefault
+     * @attr name com.quickcodestudio.quickblogger:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13487,11 +13495,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:layout
+     * @attr name com.quickcodestudio.quickblogger:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13499,21 +13507,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:queryBackground
+     * @attr name com.quickcodestudio.quickblogger:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:queryHint
+     * @attr name com.quickcodestudio.quickblogger:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13521,11 +13529,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:searchHintIcon
+     * @attr name com.quickcodestudio.quickblogger:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13533,11 +13541,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:searchIcon
+     * @attr name com.quickcodestudio.quickblogger:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13545,11 +13553,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:submitBackground
+     * @attr name com.quickcodestudio.quickblogger:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13557,11 +13565,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:suggestionRowLayout
+     * @attr name com.quickcodestudio.quickblogger:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13569,7 +13577,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:voiceIcon
+     * @attr name com.quickcodestudio.quickblogger:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -13579,9 +13587,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SignInButton_buttonSize com.jideguru.quickblogger:buttonSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_colorScheme com.jideguru.quickblogger:colorScheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_scopeUris com.jideguru.quickblogger:scopeUris}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_buttonSize com.quickcodestudio.quickblogger:buttonSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_colorScheme com.quickcodestudio.quickblogger:colorScheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_scopeUris com.quickcodestudio.quickblogger:scopeUris}</code></td><td></td></tr>
      * </table>
      * @see #SignInButton_buttonSize
      * @see #SignInButton_colorScheme
@@ -13591,7 +13599,7 @@ public final class R {
         0x7f030049, 0x7f030068, 0x7f030139
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#buttonSize}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#buttonSize}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13609,11 +13617,11 @@ public final class R {
      * <tr><td>wide</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:buttonSize
+     * @attr name com.quickcodestudio.quickblogger:buttonSize
      */
     public static final int SignInButton_buttonSize=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#colorScheme}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#colorScheme}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13631,11 +13639,11 @@ public final class R {
      * <tr><td>light</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:colorScheme
+     * @attr name com.quickcodestudio.quickblogger:colorScheme
      */
     public static final int SignInButton_colorScheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#scopeUris}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#scopeUris}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13645,7 +13653,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:scopeUris
+     * @attr name com.quickcodestudio.quickblogger:scopeUris
      */
     public static final int SignInButton_scopeUris=2;
     /**
@@ -13656,8 +13664,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation com.jideguru.quickblogger:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.jideguru.quickblogger:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.quickcodestudio.quickblogger:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.quickcodestudio.quickblogger:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -13680,7 +13688,7 @@ public final class R {
      */
     public static final int SnackbarLayout_android_maxWidth=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#elevation}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13689,11 +13697,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:elevation
+     * @attr name com.quickcodestudio.quickblogger:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13702,7 +13710,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:maxActionInlineWidth
+     * @attr name com.quickcodestudio.quickblogger:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -13716,7 +13724,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.jideguru.quickblogger:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.quickcodestudio.quickblogger:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -13791,7 +13799,7 @@ public final class R {
      */
     public static final int Spinner_android_dropDownWidth=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13799,7 +13807,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:popupTheme
+     * @attr name com.quickcodestudio.quickblogger:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -13812,17 +13820,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.jideguru.quickblogger:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.jideguru.quickblogger:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.jideguru.quickblogger:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.jideguru.quickblogger:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.jideguru.quickblogger:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.jideguru.quickblogger:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.jideguru.quickblogger:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.jideguru.quickblogger:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.jideguru.quickblogger:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.jideguru.quickblogger:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.jideguru.quickblogger:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.quickcodestudio.quickblogger:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.quickcodestudio.quickblogger:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.quickcodestudio.quickblogger:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.quickcodestudio.quickblogger:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.quickcodestudio.quickblogger:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.quickcodestudio.quickblogger:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.quickcodestudio.quickblogger:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.quickcodestudio.quickblogger:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.quickcodestudio.quickblogger:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.quickcodestudio.quickblogger:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.quickcodestudio.quickblogger:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -13878,27 +13886,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:showText
+     * @attr name com.quickcodestudio.quickblogger:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:splitTrack
+     * @attr name com.quickcodestudio.quickblogger:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13907,11 +13915,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:switchMinWidth
+     * @attr name com.quickcodestudio.quickblogger:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13920,11 +13928,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:switchPadding
+     * @attr name com.quickcodestudio.quickblogger:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13932,11 +13940,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:switchTextAppearance
+     * @attr name com.quickcodestudio.quickblogger:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13945,22 +13953,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:thumbTextPadding
+     * @attr name com.quickcodestudio.quickblogger:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:thumbTint
+     * @attr name com.quickcodestudio.quickblogger:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13977,11 +13985,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:thumbTintMode
+     * @attr name com.quickcodestudio.quickblogger:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13989,22 +13997,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:track
+     * @attr name com.quickcodestudio.quickblogger:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:trackTint
+     * @attr name com.quickcodestudio.quickblogger:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14021,7 +14029,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:trackTintMode
+     * @attr name com.quickcodestudio.quickblogger:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -14083,22 +14091,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground com.jideguru.quickblogger:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart com.jideguru.quickblogger:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity com.jideguru.quickblogger:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.jideguru.quickblogger:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.jideguru.quickblogger:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.jideguru.quickblogger:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth com.jideguru.quickblogger:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode com.jideguru.quickblogger:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding com.jideguru.quickblogger:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.jideguru.quickblogger:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.jideguru.quickblogger:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.jideguru.quickblogger:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.jideguru.quickblogger:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.jideguru.quickblogger:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.jideguru.quickblogger:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor com.jideguru.quickblogger:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground com.quickcodestudio.quickblogger:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.quickcodestudio.quickblogger:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.quickcodestudio.quickblogger:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.quickcodestudio.quickblogger:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.quickcodestudio.quickblogger:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.quickcodestudio.quickblogger:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.quickcodestudio.quickblogger:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.quickcodestudio.quickblogger:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.quickcodestudio.quickblogger:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.quickcodestudio.quickblogger:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.quickcodestudio.quickblogger:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.quickcodestudio.quickblogger:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.quickcodestudio.quickblogger:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.quickcodestudio.quickblogger:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.quickcodestudio.quickblogger:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.quickcodestudio.quickblogger:tabTextColor}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -14124,7 +14132,7 @@ public final class R {
         0x7f03016a, 0x7f03016b, 0x7f03016c, 0x7f03016d
       };
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14132,11 +14140,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:tabBackground
+     * @attr name com.quickcodestudio.quickblogger:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14145,11 +14153,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:tabContentStart
+     * @attr name com.quickcodestudio.quickblogger:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14162,22 +14170,22 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:tabGravity
+     * @attr name com.quickcodestudio.quickblogger:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:tabIndicatorColor
+     * @attr name com.quickcodestudio.quickblogger:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14186,11 +14194,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:tabIndicatorHeight
+     * @attr name com.quickcodestudio.quickblogger:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14199,11 +14207,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:tabMaxWidth
+     * @attr name com.quickcodestudio.quickblogger:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14212,11 +14220,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:tabMinWidth
+     * @attr name com.quickcodestudio.quickblogger:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14229,11 +14237,11 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:tabMode
+     * @attr name com.quickcodestudio.quickblogger:tabMode
      */
     public static final int TabLayout_tabMode=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14242,11 +14250,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:tabPadding
+     * @attr name com.quickcodestudio.quickblogger:tabPadding
      */
     public static final int TabLayout_tabPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14255,11 +14263,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:tabPaddingBottom
+     * @attr name com.quickcodestudio.quickblogger:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14268,11 +14276,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:tabPaddingEnd
+     * @attr name com.quickcodestudio.quickblogger:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14281,11 +14289,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:tabPaddingStart
+     * @attr name com.quickcodestudio.quickblogger:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14294,22 +14302,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:tabPaddingTop
+     * @attr name com.quickcodestudio.quickblogger:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:tabSelectedTextColor
+     * @attr name com.quickcodestudio.quickblogger:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14317,18 +14325,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:tabTextAppearance
+     * @attr name com.quickcodestudio.quickblogger:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:tabTextColor
+     * @attr name com.quickcodestudio.quickblogger:tabTextColor
      */
     public static final int TabLayout_tabTextColor=15;
     /**
@@ -14349,8 +14357,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.jideguru.quickblogger:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.jideguru.quickblogger:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.quickcodestudio.quickblogger:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.quickcodestudio.quickblogger:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -14516,17 +14524,17 @@ public final class R {
      */
     public static final int TextAppearance_android_fontFamily=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:fontFamily
+     * @attr name com.quickcodestudio.quickblogger:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14536,7 +14544,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:textAllCaps
+     * @attr name com.quickcodestudio.quickblogger:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -14548,20 +14556,20 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.jideguru.quickblogger:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.jideguru.quickblogger:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.jideguru.quickblogger:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.jideguru.quickblogger:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.jideguru.quickblogger:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.jideguru.quickblogger:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.jideguru.quickblogger:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.jideguru.quickblogger:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.jideguru.quickblogger:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.jideguru.quickblogger:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.jideguru.quickblogger:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.jideguru.quickblogger:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.jideguru.quickblogger:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.jideguru.quickblogger:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.quickcodestudio.quickblogger:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.quickcodestudio.quickblogger:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.quickcodestudio.quickblogger:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.quickcodestudio.quickblogger:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.quickcodestudio.quickblogger:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.quickcodestudio.quickblogger:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.quickcodestudio.quickblogger:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.quickcodestudio.quickblogger:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.quickcodestudio.quickblogger:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.quickcodestudio.quickblogger:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.quickcodestudio.quickblogger:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.quickcodestudio.quickblogger:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.quickcodestudio.quickblogger:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.quickcodestudio.quickblogger:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -14612,26 +14620,26 @@ public final class R {
      */
     public static final int TextInputLayout_android_hint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:counterEnabled
+     * @attr name com.quickcodestudio.quickblogger:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.jideguru.quickblogger:counterMaxLength
+     * @attr name com.quickcodestudio.quickblogger:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14639,11 +14647,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:counterOverflowTextAppearance
+     * @attr name com.quickcodestudio.quickblogger:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14651,21 +14659,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:counterTextAppearance
+     * @attr name com.quickcodestudio.quickblogger:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:errorEnabled
+     * @attr name com.quickcodestudio.quickblogger:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14673,31 +14681,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:errorTextAppearance
+     * @attr name com.quickcodestudio.quickblogger:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:hintAnimationEnabled
+     * @attr name com.quickcodestudio.quickblogger:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:hintEnabled
+     * @attr name com.quickcodestudio.quickblogger:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14705,21 +14713,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:hintTextAppearance
+     * @attr name com.quickcodestudio.quickblogger:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:passwordToggleContentDescription
+     * @attr name com.quickcodestudio.quickblogger:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14727,32 +14735,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:passwordToggleDrawable
+     * @attr name com.quickcodestudio.quickblogger:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.jideguru.quickblogger:passwordToggleEnabled
+     * @attr name com.quickcodestudio.quickblogger:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:passwordToggleTint
+     * @attr name com.quickcodestudio.quickblogger:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14768,7 +14776,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:passwordToggleTintMode
+     * @attr name com.quickcodestudio.quickblogger:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=15;
     /**
@@ -14780,33 +14788,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.jideguru.quickblogger:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.jideguru.quickblogger:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.jideguru.quickblogger:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.jideguru.quickblogger:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.jideguru.quickblogger:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.jideguru.quickblogger:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.jideguru.quickblogger:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.jideguru.quickblogger:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.jideguru.quickblogger:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.jideguru.quickblogger:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.jideguru.quickblogger:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.jideguru.quickblogger:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.jideguru.quickblogger:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.jideguru.quickblogger:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.jideguru.quickblogger:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.jideguru.quickblogger:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.jideguru.quickblogger:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.jideguru.quickblogger:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.jideguru.quickblogger:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.jideguru.quickblogger:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.jideguru.quickblogger:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.jideguru.quickblogger:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.jideguru.quickblogger:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.jideguru.quickblogger:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.jideguru.quickblogger:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.jideguru.quickblogger:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.jideguru.quickblogger:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.quickcodestudio.quickblogger:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.quickcodestudio.quickblogger:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.quickcodestudio.quickblogger:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.quickcodestudio.quickblogger:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.quickcodestudio.quickblogger:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.quickcodestudio.quickblogger:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.quickcodestudio.quickblogger:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.quickcodestudio.quickblogger:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.quickcodestudio.quickblogger:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.quickcodestudio.quickblogger:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.quickcodestudio.quickblogger:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.quickcodestudio.quickblogger:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.quickcodestudio.quickblogger:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.quickcodestudio.quickblogger:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.quickcodestudio.quickblogger:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.quickcodestudio.quickblogger:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.quickcodestudio.quickblogger:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.quickcodestudio.quickblogger:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.quickcodestudio.quickblogger:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.quickcodestudio.quickblogger:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.quickcodestudio.quickblogger:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.quickcodestudio.quickblogger:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.quickcodestudio.quickblogger:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.quickcodestudio.quickblogger:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.quickcodestudio.quickblogger:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.quickcodestudio.quickblogger:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.quickcodestudio.quickblogger:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -14891,7 +14899,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -14904,21 +14912,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:buttonGravity
+     * @attr name com.quickcodestudio.quickblogger:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:collapseContentDescription
+     * @attr name com.quickcodestudio.quickblogger:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14926,11 +14934,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:collapseIcon
+     * @attr name com.quickcodestudio.quickblogger:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14939,11 +14947,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentInsetEnd
+     * @attr name com.quickcodestudio.quickblogger:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14952,11 +14960,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentInsetEndWithActions
+     * @attr name com.quickcodestudio.quickblogger:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14965,11 +14973,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentInsetLeft
+     * @attr name com.quickcodestudio.quickblogger:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14978,11 +14986,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentInsetRight
+     * @attr name com.quickcodestudio.quickblogger:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14991,11 +14999,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentInsetStart
+     * @attr name com.quickcodestudio.quickblogger:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15004,11 +15012,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:contentInsetStartWithNavigation
+     * @attr name com.quickcodestudio.quickblogger:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15016,21 +15024,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:logo
+     * @attr name com.quickcodestudio.quickblogger:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:logoDescription
+     * @attr name com.quickcodestudio.quickblogger:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15039,21 +15047,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:maxButtonHeight
+     * @attr name com.quickcodestudio.quickblogger:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:navigationContentDescription
+     * @attr name com.quickcodestudio.quickblogger:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15061,11 +15069,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:navigationIcon
+     * @attr name com.quickcodestudio.quickblogger:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15073,21 +15081,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:popupTheme
+     * @attr name com.quickcodestudio.quickblogger:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:subtitle
+     * @attr name com.quickcodestudio.quickblogger:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15095,32 +15103,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:subtitleTextAppearance
+     * @attr name com.quickcodestudio.quickblogger:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:subtitleTextColor
+     * @attr name com.quickcodestudio.quickblogger:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.jideguru.quickblogger:title
+     * @attr name com.quickcodestudio.quickblogger:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15129,11 +15137,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:titleMargin
+     * @attr name com.quickcodestudio.quickblogger:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15142,11 +15150,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:titleMarginBottom
+     * @attr name com.quickcodestudio.quickblogger:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15155,11 +15163,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:titleMarginEnd
+     * @attr name com.quickcodestudio.quickblogger:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15168,11 +15176,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:titleMarginStart
+     * @attr name com.quickcodestudio.quickblogger:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15181,11 +15189,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:titleMarginTop
+     * @attr name com.quickcodestudio.quickblogger:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15194,11 +15202,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:titleMargins
+     * @attr name com.quickcodestudio.quickblogger:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15206,18 +15214,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:titleTextAppearance
+     * @attr name com.quickcodestudio.quickblogger:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:titleTextColor
+     * @attr name com.quickcodestudio.quickblogger:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -15229,9 +15237,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.jideguru.quickblogger:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.jideguru.quickblogger:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.jideguru.quickblogger:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.quickcodestudio.quickblogger:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.quickcodestudio.quickblogger:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.quickcodestudio.quickblogger:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -15274,7 +15282,7 @@ public final class R {
      */
     public static final int View_android_focusable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15283,11 +15291,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:paddingEnd
+     * @attr name com.quickcodestudio.quickblogger:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15296,11 +15304,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.jideguru.quickblogger:paddingStart
+     * @attr name com.quickcodestudio.quickblogger:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15308,7 +15316,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:theme
+     * @attr name com.quickcodestudio.quickblogger:theme
      */
     public static final int View_theme=4;
     /**
@@ -15319,8 +15327,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.jideguru.quickblogger:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.jideguru.quickblogger:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.quickcodestudio.quickblogger:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.quickcodestudio.quickblogger:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -15345,18 +15353,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.jideguru.quickblogger:backgroundTint
+     * @attr name com.quickcodestudio.quickblogger:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.jideguru.quickblogger.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.quickcodestudio.quickblogger.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15372,7 +15380,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.jideguru.quickblogger:backgroundTintMode
+     * @attr name com.quickcodestudio.quickblogger:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**

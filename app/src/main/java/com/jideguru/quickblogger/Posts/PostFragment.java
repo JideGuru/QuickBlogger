@@ -16,8 +16,8 @@ import android.view.ViewGroup;
 
 import com.google.gson.Gson;
 import com.jideguru.quickblogger.Common.HTTPDataHandler;
-import com.jideguru.quickblogger.Posts.Adapter.FeedAdapter;
-import com.jideguru.quickblogger.Posts.Models.RootObject;
+import com.jideguru.quickblogger.Posts.Adapter.PostAdapter;
+import com.jideguru.quickblogger.Posts.Models.PostObject;
 import com.jideguru.quickblogger.R;
 import com.jideguru.quickblogger.Util.Method;
 
@@ -27,7 +27,7 @@ public class PostFragment extends Fragment {
 
 
     RecyclerView recyclerView;
-    RootObject rootObject;
+    PostObject postObject;
     SwipeRefreshLayout SwipeLayout;
     String idToken;
     String API_LINK;
@@ -80,6 +80,7 @@ public class PostFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
+        String blogId = getArguments().getString("blogId");
         View view= inflater.inflate(R.layout.fragment_post, container, false);
 
 
@@ -97,7 +98,7 @@ public class PostFragment extends Fragment {
         method = new Method(getActivity());
         idToken = method.pref.getString(method.accessToken, null);
 
-        String API_LINK = "https://www.googleapis.com/blogger/v3/blogs/2009969270930045305/posts?access_token="+idToken+"&maxResults=100";
+        API_LINK = "https://www.googleapis.com/blogger/v3/blogs/"+blogId+"/posts?access_token="+idToken+"&maxResults=100";
 
         Log.i("URILINK", API_LINK);
         recyclerView= (RecyclerView) view.findViewById(R.id.posts_contain);
@@ -117,6 +118,7 @@ public class PostFragment extends Fragment {
             protected void onPreExecute() {
                 mDialog.setMessage("Loading, Please Wait...");
                 mDialog.show();
+                mDialog.setCancelable(false);
             }
 
             @Override
@@ -132,8 +134,8 @@ public class PostFragment extends Fragment {
             protected void onPostExecute(String s) {
 
                 mDialog.dismiss();
-                rootObject = new Gson().fromJson(s,RootObject.class);
-                FeedAdapter adapter = new FeedAdapter(rootObject, getContext());
+                postObject = new Gson().fromJson(s,PostObject.class);
+                PostAdapter adapter = new PostAdapter(postObject, getContext());
                 recyclerView.setAdapter(adapter);
                 adapter.notifyDataSetChanged();
 

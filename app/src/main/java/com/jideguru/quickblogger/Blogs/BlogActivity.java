@@ -9,11 +9,13 @@ import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
+import android.view.View;
+import android.widget.Button;
 
 import com.google.gson.Gson;
 
-import com.jideguru.quickblogger.Blogs.Adapter.FeedAdapter;
-import com.jideguru.quickblogger.Blogs.Models.RootObject;
+import com.jideguru.quickblogger.Blogs.Adapter.BlogAdapter;
+import com.jideguru.quickblogger.Blogs.Models.BlogObject;
 import com.jideguru.quickblogger.Common.HTTPDataHandler;
 import com.jideguru.quickblogger.R;
 import com.jideguru.quickblogger.Util.Method;
@@ -22,7 +24,7 @@ public class BlogActivity extends AppCompatActivity {
 
 
     RecyclerView recyclerView;
-    RootObject rootObject;
+    BlogObject blogObject;
     SwipeRefreshLayout SwipeLayout;
 
 
@@ -72,6 +74,8 @@ public class BlogActivity extends AppCompatActivity {
             protected void onPreExecute() {
                 mDialog.setMessage("Loading Blogs, Please Wait...");
                 mDialog.show();
+                mDialog.setCancelable(false);
+
             }
 
             @Override
@@ -89,10 +93,10 @@ public class BlogActivity extends AppCompatActivity {
 
 
                 mDialog.dismiss();
-                //Type RootObject = new TypeToken<Collection<RootObject>>(){}.getType();
-                //Collection<RootObject> rootObject = new Gson().fromJson(s, RootObject);
-                rootObject = new Gson().fromJson(s, RootObject.class);
-                FeedAdapter adapter = new FeedAdapter((com.jideguru.quickblogger.Blogs.Models.RootObject) rootObject, BlogActivity.this);
+                //Type BlogObject = new TypeToken<Collection<BlogObject>>(){}.getType();
+                //Collection<BlogObject> blogObject = new Gson().fromJson(s, BlogObject);
+                blogObject = new Gson().fromJson(s, BlogObject.class);
+                BlogAdapter adapter = new BlogAdapter(blogObject, BlogActivity.this);
                 recyclerView.setAdapter(adapter);
                 adapter.notifyDataSetChanged();
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.jideguru.quickblogger"
+    package="com.quickcodestudio.quickblogger"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -14,21 +14,21 @@
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <permission
-        android:name="com.jideguru.quickblogger.permission.C2D_MESSAGE"
+        android:name="com.quickcodestudio.quickblogger.permission.C2D_MESSAGE"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.jideguru.quickblogger.permission.C2D_MESSAGE" />
+    <uses-permission android:name="com.quickcodestudio.quickblogger.permission.C2D_MESSAGE" />
 
     <application
         android:name="android.support.multidex.MultiDexApplication"
         android:allowBackup="true"
         android:debuggable="true"
-        android:hardwareAccelerated="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:largeHeap="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
             android:name="com.jideguru.quickblogger.Login.LoginActivity"
@@ -110,7 +110,7 @@
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
 
-                <category android:name="com.jideguru.quickblogger" />
+                <category android:name="com.quickcodestudio.quickblogger" />
             </intent-filter>
         </receiver>
         <!--
@@ -127,7 +127,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.jideguru.quickblogger.firebaseinitprovider"
+            android:authorities="com.quickcodestudio.quickblogger.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 

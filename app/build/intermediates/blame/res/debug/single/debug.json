@@ -72,12 +72,12 @@
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4_google_play_games.png.flat",
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/c718f74d6839f4841ad1a91cf4f8a7b2/res/mipmap-hdpi-v4/google_play_games.png"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
@@ -92,16 +92,16 @@
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/c718f74d6839f4841ad1a91cf4f8a7b2/res/mipmap-xxhdpi-v4/help.png"
     },
     {
-        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4_changelog.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/c718f74d6839f4841ad1a91cf4f8a7b2/res/mipmap-xxxhdpi-v4/changelog.png"
     },
     {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/anim-v21_design_bottom_sheet_slide_in.xml.flat",
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c0b1ea7be57fbc2ad738eb94137e6c42/res/anim-v21/design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4_changelog.png.flat",
-        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/c718f74d6839f4841ad1a91cf4f8a7b2/res/mipmap-xxxhdpi-v4/changelog.png"
+        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4_google_play_games.png.flat",
@@ -116,12 +116,12 @@
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4_google_plus.png.flat",
-        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/c718f74d6839f4841ad1a91cf4f8a7b2/res/mipmap-xxhdpi-v4/google_plus.png"
-    },
-    {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4_google_plus.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/c718f74d6839f4841ad1a91cf4f8a7b2/res/mipmap-xxhdpi-v4/google_plus.png"
     },
     {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
@@ -210,6 +210,10 @@
     {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4_email.png.flat",
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/c718f74d6839f4841ad1a91cf4f8a7b2/res/mipmap-mdpi-v4/email.png"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_post_add.png.flat",
+        "source": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/src/main/res/drawable-xxhdpi/ic_post_add.png"
     },
     {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -638,6 +642,10 @@
     {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_post_add.png.flat",
+        "source": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/src/main/res/drawable-mdpi/ic_post_add.png"
     },
     {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
@@ -1366,6 +1374,10 @@
     {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_post_add.png.flat",
+        "source": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/src/main/res/drawable-hdpi/ic_post_add.png"
     },
     {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
@@ -2216,6 +2228,10 @@
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_post_add.png.flat",
+        "source": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/src/main/res/drawable-xhdpi/ic_post_add.png"
+    },
+    {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -2654,6 +2670,10 @@
     {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4_changelog.png.flat",
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/c718f74d6839f4841ad1a91cf4f8a7b2/res/mipmap-xxhdpi-v4/changelog.png"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_post_add.png.flat",
+        "source": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/src/main/res/drawable-xxxhdpi/ic_post_add.png"
     },
     {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",

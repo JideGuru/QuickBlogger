@@ -4,11 +4,19 @@ import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.TextView;
 
 import com.jideguru.quickblogger.R;
+import com.jideguru.quickblogger.Util.Method;
+import com.squareup.okhttp.OkHttpClient;
+import com.squareup.okhttp.Request;
+import com.squareup.okhttp.Response;
+
+import java.io.IOException;
 
 
 /**
@@ -20,12 +28,17 @@ import com.jideguru.quickblogger.R;
  * create an instance of this fragment.
  */
 public class StatsFragment extends Fragment {
-    // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "param1";
     private static final String ARG_PARAM2 = "param2";
 
-    // TODO: Rename and change types of parameters
+    String idToken;
+    String API_LINK;
+    String API_LINK1;
+    String API_LINK2;
+    private Method method;
+    TextView today, month, alltime;
+
     private String mParam1;
     private String mParam2;
 
@@ -35,15 +48,6 @@ public class StatsFragment extends Fragment {
         // Required empty public constructor
     }
 
-    /**
-     * Use this factory method to create a new instance of
-     * this fragment using the provided parameters.
-     *
-     * @param param1 Parameter 1.
-     * @param param2 Parameter 2.
-     * @return A new instance of fragment StatsFragment.
-     */
-    // TODO: Rename and change types and number of parameters
     public static StatsFragment newInstance(String param1, String param2) {
         StatsFragment fragment = new StatsFragment();
         Bundle args = new Bundle();
@@ -69,10 +73,47 @@ public class StatsFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_stats, container, false);
+        String blogId = getArguments().getString("blogId");
+        View view= inflater.inflate(R.layout.fragment_stats, container, false);
+
+        method = new Method(getActivity());
+        idToken = method.pref.getString(method.accessToken, null);
+
+        API_LINK = "https://www.googleapis.com/blogger/v3/blogs/"+blogId+"/pageviews?access_token="+idToken+"&range=7DAYS";
+        API_LINK1 = "https://www.googleapis.com/blogger/v3/blogs/"+blogId+"/pageviews?access_token="+idToken+"&range=30DAYS";
+        API_LINK2 = "https://www.googleapis.com/blogger/v3/blogs/"+blogId+"/pageviews?access_token="+idToken+"&range=all";
+
+        today = view.findViewById(R.id.today_num);
+        month = view.findViewById(R.id.this_month_num);
+        alltime = view.findViewById(R.id.all_time_num);
+
+
+        getToday();
+        return view;
     }
 
-    // TODO: Rename method, update argument and hook method into UI event
+    public void getToday(){
+
+        OkHttpClient httpClient = new OkHttpClient();
+
+        Request request = new Request.Builder()
+                .url(API_LINK1)
+                .build();
+
+        Response response = null;
+
+        try {
+            response = httpClient.newCall(request).execute();
+            String res =  response.body().string();
+
+            Log.i("URILINK", res);
+        } catch (Exception e) {
+            Log.e("URILINK", "error in getting response get request okhttp");
+        }
+
+
+    }
+
     public void onButtonPressed(Uri uri) {
         if (mListener != null) {
             mListener.onFragmentInteraction(uri);
@@ -96,16 +137,6 @@ public class StatsFragment extends Fragment {
         mListener = null;
     }
 
-    /**
-     * This interface must be implemented by activities that contain this
-     * fragment to allow an interaction in this fragment to be communicated
-     * to the activity and potentially other fragments contained in that
-     * activity.
-     * <p>
-     * See the Android Training lesson <a href=
-     * "http://developer.android.com/training/basics/fragments/communicating.html"
-     * >Communicating with Other Fragments</a> for more information.
-     */
     public interface OnFragmentInteractionListener {
         // TODO: Update argument type and name
         void onFragmentInteraction(Uri uri);

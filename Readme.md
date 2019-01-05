@@ -31,7 +31,7 @@ Make sure to read the [Blogger Documentation](https://developers.google.com/blog
 - [x] Google Sign-In
 - [x] Get and validate access token
 - [x] Blogs Lists
-- [ ] Posts Lists
+- [x] Posts Lists
 - [ ] Blog's Stats
 - [ ] Blog's pages
 - [ ] All Post's Comments
@@ -41,6 +41,10 @@ Make sure to read the [Blogger Documentation](https://developers.google.com/blog
 
 # Author(s)
 **Olusegun Festus Babajide**
+
+
+# Contributors
+**404 Not Found**
 
 
 # License

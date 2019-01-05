@@ -9,7 +9,7 @@ package com.jideguru.quickblogger;
 
 public final class Manifest {
   public static final class permission {
-    public static final String C2D_MESSAGE="com.jideguru.quickblogger.permission.C2D_MESSAGE";
+    public static final String C2D_MESSAGE="com.quickcodestudio.quickblogger.permission.C2D_MESSAGE";
   }
 
 }

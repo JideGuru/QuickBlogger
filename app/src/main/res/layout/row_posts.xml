@@ -5,37 +5,40 @@
     android:layout_height="wrap_content"
     android:padding="8dp"
     android:layout_marginBottom="4dp"
-    android:layout_marginEnd="4dp"
-    android:layout_marginStart="4dp"
     android:layout_marginTop="4dp"
-    app:cardElevation="4dp">
+    android:layout_marginRight="10dp"
+    android:layout_marginLeft="10dp"
+    app:cardElevation="8dp">
 
-    <LinearLayout
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical">
-        <ImageView
-            android:id="@+id/post_thumbnail"
+        android:layout_height="match_parent">
+        <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="180dp"
-            android:adjustViewBounds="true"
-            android:src="@mipmap/ic_launcher"
-            android:scaleType="centerCrop"/>
-
-
-        <TextView
-            android:text="Title"
-            android:id="@+id/post_title"
-            android:textSize="20sp"
-            android:textStyle="bold"
-            android:layout_width="match_parent"
-            android:layout_marginLeft="2dp"
             android:layout_height="wrap_content"
-            android:textColor="@color/colorPrimary"
-            android:layout_marginBottom="2dp"/>
+            android:orientation="vertical"
+            android:id="@+id/fll">
+            <ImageView
+                android:id="@+id/post_thumbnail"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:adjustViewBounds="true"
+                android:src="@mipmap/ic_launcher"
+                android:scaleType="centerCrop"/>
 
 
-        <!--<org.sufficientlysecure.htmltextview.HtmlTextView-->
+            <TextView
+                android:text="Title"
+                android:id="@+id/post_title"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="2dp"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"/>
+
+
+            <!--<org.sufficientlysecure.htmltextview.HtmlTextView-->
             <!--android:text="Content"-->
             <!--android:id="@+id/post_content"-->
             <!--android:textSize="14sp"-->
@@ -46,18 +49,58 @@
             <!--android:maxLines="4"-->
             <!--android:layout_marginLeft="4dp" />-->
 
-        <TextView
-            android:text="Author"
-            android:id="@+id/post_author"
-            android:textSize="14sp"
-            android:textStyle="italic"
+            <TextView
+                android:text="Author"
+                android:id="@+id/post_author"
+                android:textSize="14sp"
+                android:textStyle="italic"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="4dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp"
+                android:textColor="@color/black"/>
+
+        </LinearLayout>
+        <View
+            android:id="@+id/demac"
             android:layout_width="match_parent"
-            android:layout_marginLeft="4dp"
+            android:layout_height="1dp"
+            android:background="@color/black"
+            android:layout_below="@id/fll"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="4dp"
-            android:layout_marginTop="4dp"
-            android:textColor="@color/colorPrimaryDark"/>
+            android:layout_below="@id/demac"
+            android:orientation="horizontal">
 
+            <Button
+                android:id="@+id/edit_btn"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:text="Edit"
+                android:textColor="@color/black"
+                android:background="@color/white"
+                android:layout_toLeftOf="@id/share_btn"/>
 
-    </LinearLayout>
+            <Button
+                android:id="@+id/share_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="Share"
+                android:layout_toLeftOf="@id/delete_btn"
+                android:textColor="@color/black"
+                android:background="@color/white"/>
+            <Button
+                android:id="@+id/delete_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="Delete"
+                android:textColor="@color/black"
+                android:background="@color/white"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+
+    </RelativeLayout>
+
 </android.support.v7.widget.CardView>
