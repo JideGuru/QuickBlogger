@@ -32,11 +32,10 @@ Make sure to read the [Blogger Documentation](https://developers.google.com/blog
 - [x] Get and validate access token
 - [x] Blogs Lists
 - [x] Posts Lists
-- [x] Stats page
-- [x] Pages List
-- [x] Comments List
-- [ ] Add Blog Posts
-- [ ] Edit Blogs posts
+- [ ] Blog's Stats
+- [ ] Blog's pages
+- [ ] All Post's Comments
+- [ ] Add and Edit Blog Posts
 - [ ] Add Pages
 - [ ] Improve app's UI
 
