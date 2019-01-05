@@ -26,6 +26,20 @@ Make sure to read the [Blogger Documentation](https://developers.google.com/blog
 4. Start editing.
 
 
+# TO DOs
+
+- [x] Google Sign-In
+- [x] Get and validate access token
+- [x] Blogs Lists
+- [x] Posts Lists
+- [x] Stats page
+- [x] Pages List
+- [x] Comments List
+- [ ] Add Blog Posts
+- [ ] Edit Blogs posts
+- [ ] Add Pages
+- [ ] Improve app's UI
+
 # Author(s)
 **Olusegun Festus Babajide**
 
