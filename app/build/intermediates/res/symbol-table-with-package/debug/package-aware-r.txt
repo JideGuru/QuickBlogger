@@ -1120,8 +1120,8 @@ int id up 0x7f0800f0
 int id useLogo 0x7f0800f1
 int id view_offset_helper 0x7f0800f2
 int id visible 0x7f0800f3
-int id week_month 0x7f0800f4
-int id week_month_num 0x7f0800f5
+int id week 0x7f0800f4
+int id week_num 0x7f0800f5
 int id wide 0x7f0800f6
 int id withText 0x7f0800f7
 int id wrap 0x7f0800f8

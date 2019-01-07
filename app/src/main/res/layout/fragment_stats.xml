@@ -21,8 +21,8 @@
             android:layout_height="match_parent"
             android:layout_marginTop="20dp"
             android:layout_marginBottom="20dp"
-            android:layout_marginRight="20dp"
-            android:layout_marginLeft="20dp">
+            android:layout_marginRight="40dp"
+            android:layout_marginLeft="40dp">
 
 
             <TextView
@@ -57,7 +57,7 @@
                     android:id="@+id/today_num"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="..."
+                    android:text="Not Provided"
                     android:textSize="15sp"
                     android:layout_alignParentRight="true"/>
 
@@ -71,14 +71,14 @@
 
 
                 <TextView
-                    android:id="@+id/week_month"
+                    android:id="@+id/week"
                     android:layout_width="wrap_content"
                     android:layout_height="20sp"
                     android:text="7 days"
                     android:textSize="15sp" />
 
                 <TextView
-                    android:id="@+id/week_month_num"
+                    android:id="@+id/week_num"
                     android:layout_width="wrap_content"
                     android:layout_height="20sp"
                     android:text="...."

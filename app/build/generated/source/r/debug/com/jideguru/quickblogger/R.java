@@ -4060,8 +4060,8 @@ public final class R {
     public static final int useLogo=0x7f0800f1;
     public static final int view_offset_helper=0x7f0800f2;
     public static final int visible=0x7f0800f3;
-    public static final int week_month=0x7f0800f4;
-    public static final int week_month_num=0x7f0800f5;
+    public static final int week=0x7f0800f4;
+    public static final int week_num=0x7f0800f5;
     public static final int wide=0x7f0800f6;
     public static final int withText=0x7f0800f7;
     public static final int wrap=0x7f0800f8;

@@ -37,7 +37,7 @@ Make sure to read the [Blogger Documentation](https://developers.google.com/blog
 - [x] Get and validate access token
 - [x] Blogs Lists
 - [x] Posts Lists
-- [ ] Blog's Stats
+- [x] Blog's Stats
 - [ ] Blog's pages
 - [ ] All Blog Posts Comments
 - [ ] Add and Edit Blog Posts

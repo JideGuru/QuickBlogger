@@ -33,6 +33,7 @@
         app:backgroundTint="@color/colorPrimary"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
+        android:layout_marginBottom="10dp"
         app:fabSize="normal"/>
 
 </RelativeLayout>

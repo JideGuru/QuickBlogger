@@ -1,5 +1,6 @@
 package com.jideguru.quickblogger.Stats;
 
+import android.app.ProgressDialog;
 import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
@@ -48,7 +49,7 @@ public class StatsFragment extends Fragment {
     String API_LINK1;
     String API_LINK2;
     private Method method;
-    TextView today, month, alltime;
+    TextView today,week, month, alltime;
 
     private String mParam1;
     private String mParam2;
@@ -95,15 +96,109 @@ public class StatsFragment extends Fragment {
         API_LINK2 = "https://www.googleapis.com/blogger/v3/blogs/"+blogId+"/pageviews?access_token="+idToken+"&range=all";
 
         today = view.findViewById(R.id.today_num);
+        week = view.findViewById(R.id.week_num);
         month = view.findViewById(R.id.this_month_num);
         alltime = view.findViewById(R.id.all_time_num);
 
 
-        getToday();
+        getWeek();
+        getMonth();
+        getAllTime();
         return view;
     }
 
-    public void getToday(){
+//    public void getEm(){
+//        final ProgressDialog mDialog = new ProgressDialog(getActivity());
+//        mDialog.setMessage("Loading, Please Wait...");
+//        mDialog.show();
+//        mDialog.setCancelable(false);
+//        getWeek();
+//        getMonth();
+//        getAllTime();
+//        mDialog.dismiss();
+//
+//    }
+
+    public void getWeek(){
+
+        final ProgressDialog mDialog = new ProgressDialog(getActivity());
+        mDialog.setMessage("Loading, Please Wait...");
+        mDialog.show();
+        mDialog.setCancelable(false);
+
+        OkHttpClient httpClient = new OkHttpClient();
+
+//        HttpUrl.Builder urlBuilder = HttpUrl.parse("https://www.googleapis.com/blogger/v3/blogs/"+blogId+"/pageviews?access_token=").newBuilder();
+//        urlBuilder.addQueryParameter("access_token", idToken);
+//        urlBuilder.addQueryParameter("range", "7DAYS");
+//        String url = urlBuilder.build().toString();
+
+        Request request = new Request.Builder()
+                .url(API_LINK)
+                .build();
+
+        httpClient.newCall(request).enqueue(new Callback() {
+
+            @Override
+            public void onResponse(Response response) throws IOException {
+                if (!response.isSuccessful()) {
+                    Toasty.error(getContext(), "Something went wrong", Toast.LENGTH_SHORT)
+                                    .show();
+                } else {
+
+//                    Log.i("Response", String.valueOf(response.body().string()));
+//                    String res = response.body().string();
+                    try {
+                        JSONObject jsonObject = new JSONObject(response.body().string());
+                        Log.i("Response", String.valueOf(jsonObject));
+
+                        JSONArray jsonArray = jsonObject.getJSONArray("counts");
+                        Log.i("Response", String.valueOf(jsonArray));
+                        int length = jsonObject .length();
+
+                        for(int i=0; i<length; i++)
+                        {
+                            JSONObject jObj = jsonArray.getJSONObject(i);
+
+                            final String count = jObj.getString("count");
+                            Log.i("Response", count);
+
+                            getActivity().runOnUiThread(new Runnable() {
+
+                                @Override
+                                public void run() {
+
+                                    week.setText(count);
+                                    mDialog.dismiss();
+
+                                }
+                            });
+                        }
+
+                    } catch (Exception e) {
+                        Log.i("Response", String.valueOf(e));
+                    }
+
+                }
+            }
+
+            @Override
+            public void onFailure(Request request, IOException e) {
+
+            }
+
+        });
+
+
+    }
+
+
+    public void getMonth(){
+
+        final ProgressDialog mDialog = new ProgressDialog(getActivity());
+        mDialog.setMessage("Loading, Please Wait...");
+        mDialog.show();
+        mDialog.setCancelable(false);
 
         OkHttpClient httpClient = new OkHttpClient();
 
@@ -122,7 +217,7 @@ public class StatsFragment extends Fragment {
             public void onResponse(Response response) throws IOException {
                 if (!response.isSuccessful()) {
                     Toasty.error(getContext(), "Something went wrong", Toast.LENGTH_SHORT)
-                                    .show();
+                            .show();
                 } else {
 
 //                    Log.i("Response", String.valueOf(response.body().string()));
@@ -130,6 +225,102 @@ public class StatsFragment extends Fragment {
                     try {
                         JSONObject jsonObject = new JSONObject(response.body().string());
                         Log.i("Response", String.valueOf(jsonObject));
+
+                        JSONArray jsonArray = jsonObject.getJSONArray("counts");
+                        Log.i("Response", String.valueOf(jsonArray));
+                        int length = jsonObject .length();
+
+                        for(int i=0; i<length; i++)
+                        {
+                            JSONObject jObj = jsonArray.getJSONObject(i);
+
+                            final String count = jObj.getString("count");
+                            Log.i("Response", count);
+
+                            getActivity().runOnUiThread(new Runnable() {
+
+                                @Override
+                                public void run() {
+
+                                    month.setText(count);
+                                    mDialog.dismiss();
+
+                                }
+                            });
+                        }
+
+                    } catch (Exception e) {
+                        Log.i("Response", String.valueOf(e));
+                    }
+
+                }
+            }
+
+            @Override
+            public void onFailure(Request request, IOException e) {
+
+            }
+
+        });
+
+
+    }
+
+    public void getAllTime(){
+
+        final ProgressDialog mDialog = new ProgressDialog(getActivity());
+        mDialog.setMessage("Loading, Please Wait...");
+        mDialog.show();
+        mDialog.setCancelable(false);
+
+        OkHttpClient httpClient = new OkHttpClient();
+
+//        HttpUrl.Builder urlBuilder = HttpUrl.parse("https://www.googleapis.com/blogger/v3/blogs/"+blogId+"/pageviews?access_token=").newBuilder();
+//        urlBuilder.addQueryParameter("access_token", idToken);
+//        urlBuilder.addQueryParameter("range", "7DAYS");
+//        String url = urlBuilder.build().toString();
+
+        Request request = new Request.Builder()
+                .url(API_LINK2)
+                .build();
+
+        httpClient.newCall(request).enqueue(new Callback() {
+
+            @Override
+            public void onResponse(Response response) throws IOException {
+                if (!response.isSuccessful()) {
+                    Toasty.error(getContext(), "Something went wrong", Toast.LENGTH_SHORT)
+                            .show();
+                } else {
+
+//                    Log.i("Response", String.valueOf(response.body().string()));
+//                    String res = response.body().string();
+                    try {
+                        JSONObject jsonObject = new JSONObject(response.body().string());
+                        Log.i("Response", String.valueOf(jsonObject));
+
+                        JSONArray jsonArray = jsonObject.getJSONArray("counts");
+                        Log.i("Response", String.valueOf(jsonArray));
+                        int length = jsonObject .length();
+
+                        for(int i=0; i<length; i++)
+                        {
+                            JSONObject jObj = jsonArray.getJSONObject(i);
+
+                            final String count = jObj.getString("count");
+                            Log.i("Response", count);
+
+                            getActivity().runOnUiThread(new Runnable() {
+
+                                @Override
+                                public void run() {
+
+                                    alltime.setText(count);
+                                    mDialog.dismiss();
+
+                                }
+                            });
+                        }
 
                     } catch (Exception e) {
                         Log.i("Response", String.valueOf(e));
