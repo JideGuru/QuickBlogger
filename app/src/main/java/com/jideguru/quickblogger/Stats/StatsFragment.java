@@ -125,10 +125,9 @@ public class StatsFragment extends Fragment {
                                     .show();
                 } else {
 
-                    Log.i("Response", String.valueOf(response.body().string()));
-//                    String res = new String(String.valueOf(response.body().string()));
+//                    Log.i("Response", String.valueOf(response.body().string()));
+//                    String res = response.body().string();
                     try {
-//                        String.valueOf(res["counts"]);
                         JSONObject jsonObject = new JSONObject(response.body().string());
                         Log.i("Response", String.valueOf(jsonObject));
 
