@@ -128,6 +128,8 @@ public class BlogAdapter extends RecyclerView.Adapter<BlogViewHolder>{
                 if(!isLongClick){
                     Intent intent = new Intent (mContext, MainActivity.class);
                     intent.putExtra("blogId", blogObject.getItems().get(position).id);
+                    intent.putExtra("blogName", blogObject.getItems().get(position).name);
+
                     // browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(blogObject.getItems().get(position).getUrl()));
                     mContext.startActivity(intent);
                 }

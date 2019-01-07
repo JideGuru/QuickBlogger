@@ -3,6 +3,11 @@
 A mobile app that allows you to manage your Google's blogger dashboard from your phone.
 
 
+# ScreenShots
+<img src="screenshots/1.jpg" width="250"><img src="screenshots/2.jpg" width="250">
+<img src="screenshots/3.jpg" width="250"><img src="screenshots/4.jpg" width="250">
+
+
 # Status
 Under development.
 You can also contribute.
@@ -34,7 +39,7 @@ Make sure to read the [Blogger Documentation](https://developers.google.com/blog
 - [x] Posts Lists
 - [ ] Blog's Stats
 - [ ] Blog's pages
-- [ ] All Post's Comments
+- [ ] All Blog Posts Comments
 - [ ] Add and Edit Blog Posts
 - [ ] Add Pages
 - [ ] Improve app's UI

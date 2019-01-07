@@ -8,8 +8,8 @@
     android:gravity="center">
 
     <android.support.v7.widget.CardView
-        android:layout_width="342dp"
-        android:layout_height="175dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:layout_marginBottom="100dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -18,16 +18,18 @@
 
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp">
 
 
             <TextView
                 android:id="@+id/pageview"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="3dp"
-                android:layout_marginLeft="135dp"
-                android:layout_marginStart="120dp"
+                android:gravity="center"
                 android:layout_marginTop="8dp"
                 android:text="Page Views"
                 android:textSize="20sp"
@@ -40,8 +42,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
                 android:layout_marginTop="20dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginRight="20dp"
                 android:layout_below="@id/pageview">
 
 
@@ -64,19 +64,40 @@
             </RelativeLayout>
 
             <RelativeLayout
+                android:id="@+id/serll"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_below="@id/trll">
+
+
+                <TextView
+                    android:id="@+id/week_month"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20sp"
+                    android:text="7 days"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/week_month_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="20sp"
+                    android:text="...."
+                    android:textSize="15sp"
+                    android:layout_alignParentRight="true"/>
+            </RelativeLayout>
+
+            <RelativeLayout
                 android:id="@+id/srll"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
-                android:layout_marginLeft="20dp"
-                android:layout_marginRight="20dp"
-                android:layout_below="@id/trll">
+                android:layout_below="@id/serll">
 
 
                 <TextView
                     android:id="@+id/this_month"
                     android:layout_width="wrap_content"
                     android:layout_height="20sp"
-                    android:text="This Month"
+                    android:text="30 days"
                     android:textSize="15sp" />
 
                 <TextView
@@ -88,12 +109,12 @@
                     android:layout_alignParentRight="true"/>
             </RelativeLayout>
 
+
+
             <RelativeLayout
                 android:id="@+id/arll"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="20dp"
-                android:layout_marginRight="20dp"
                 android:layout_below="@id/srll">
 
 

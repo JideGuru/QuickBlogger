@@ -97,16 +97,16 @@ public final class R {
         public static final int save_image_matrix = 0x7f0800a1;
         public static final int save_non_transition_alpha = 0x7f0800a2;
         public static final int save_scale_type = 0x7f0800a3;
-        public static final int status_bar_latest_event_content = 0x7f0800cb;
-        public static final int text = 0x7f0800d2;
-        public static final int text2 = 0x7f0800d3;
-        public static final int time = 0x7f0800dc;
-        public static final int title = 0x7f0800dd;
-        public static final int transition_current_scene = 0x7f0800e8;
-        public static final int transition_layout_save = 0x7f0800e9;
-        public static final int transition_position = 0x7f0800ea;
-        public static final int transition_scene_layoutid_cache = 0x7f0800eb;
-        public static final int transition_transform = 0x7f0800ec;
+        public static final int status_bar_latest_event_content = 0x7f0800cc;
+        public static final int text = 0x7f0800d3;
+        public static final int text2 = 0x7f0800d4;
+        public static final int time = 0x7f0800dd;
+        public static final int title = 0x7f0800de;
+        public static final int transition_current_scene = 0x7f0800e9;
+        public static final int transition_layout_save = 0x7f0800ea;
+        public static final int transition_position = 0x7f0800eb;
+        public static final int transition_scene_layoutid_cache = 0x7f0800ec;
+        public static final int transition_transform = 0x7f0800ed;
     }
     public static final class integer {
         public static final int cancel_button_image_alpha = 0x7f090004;
@@ -130,7 +130,7 @@ public final class R {
         public static final int notification_template_part_time = 0x7f0a003e;
     }
     public static final class string {
-        public static final int status_bar_notification_info_overflow = 0x7f0d0072;
+        public static final int status_bar_notification_info_overflow = 0x7f0d006c;
     }
     public static final class style {
         public static final int TextAppearance_Compat_Notification = 0x7f0e010a;

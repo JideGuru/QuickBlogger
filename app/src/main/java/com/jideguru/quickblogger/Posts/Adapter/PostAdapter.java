@@ -8,6 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.jideguru.quickblogger.Posts.Models.PostObject;
 import com.jideguru.quickblogger.Interface.ItemClickListener;
@@ -17,6 +18,8 @@ import com.squareup.picasso.Picasso;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+
+import es.dmoral.toasty.Toasty;
 
 
 /**
@@ -124,16 +127,21 @@ public class PostAdapter extends RecyclerView.Adapter<PostViewHolder>{
                         .getPosts()
                         .getTotalItems());*/
 
-        String img = postObject.getItems().get(position).getContent();
-        Document doc = Jsoup.parse(img);
-        Element link = doc.select("img").first();
-        String imgSrc = link.attr("src");
+        try {
+            String img = postObject.getItems().get(position).getContent();
+            Document doc = Jsoup.parse(img);
+            Element link = doc.select("img").first();
+            String imgSrc = link.attr("src");
 
-        Log.i("ImageURLS", imgSrc);
-        Picasso.with(mContext)
-                .load(imgSrc)
-                .into(holder.image);
+            Log.i("ImageURLS", imgSrc);
+            Picasso.with(mContext)
+                    .load(imgSrc)
+                    .into(holder.image);
+        }catch(Exception e){
 
+            Toasty.error(mContext, "Something went wrong", Toast.LENGTH_SHORT)
+                    .show();
+        }
 
         holder.setItemClickListener(new ItemClickListener() {
             @Override

@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity implements
 
     private TextView mTextMessage;
 
-    String blog_id;
+    String blog_id, blog_name;
 
 
     @Override
@@ -40,9 +40,11 @@ public class MainActivity extends AppCompatActivity implements
 
         Intent intent = getIntent();
         blog_id = intent.getStringExtra("blogId");
+        blog_name = intent.getStringExtra("blogName");
 
 
-        Toast.makeText(MainActivity.this,blog_id,Toast.LENGTH_SHORT).show();
+        setTitle(blog_name);
+//        Toast.makeText(MainActivity.this,blog_id,Toast.LENGTH_SHORT).show();
 
 
         Bundle bundle = new Bundle();

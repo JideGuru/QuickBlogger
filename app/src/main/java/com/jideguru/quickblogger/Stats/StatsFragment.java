@@ -9,14 +9,25 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.jideguru.quickblogger.R;
 import com.jideguru.quickblogger.Util.Method;
+import com.squareup.okhttp.Call;
+import com.squareup.okhttp.Callback;
+import com.squareup.okhttp.HttpUrl;
 import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.Request;
 import com.squareup.okhttp.Response;
 
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.io.IOException;
+import java.util.ArrayList;
+
+import es.dmoral.toasty.Toasty;
 
 
 /**
@@ -96,20 +107,44 @@ public class StatsFragment extends Fragment {
 
         OkHttpClient httpClient = new OkHttpClient();
 
+//        HttpUrl.Builder urlBuilder = HttpUrl.parse("https://www.googleapis.com/blogger/v3/blogs/"+blogId+"/pageviews?access_token=").newBuilder();
+//        urlBuilder.addQueryParameter("access_token", idToken);
+//        urlBuilder.addQueryParameter("range", "7DAYS");
+//        String url = urlBuilder.build().toString();
+
         Request request = new Request.Builder()
                 .url(API_LINK1)
                 .build();
 
-        Response response = null;
+        httpClient.newCall(request).enqueue(new Callback() {
 
-        try {
-            response = httpClient.newCall(request).execute();
-            String res =  response.body().string();
+            @Override
+            public void onResponse(Response response) throws IOException {
+                if (!response.isSuccessful()) {
+                    Toasty.error(getContext(), "Something went wrong", Toast.LENGTH_SHORT)
+                                    .show();
+                } else {
 
-            Log.i("URILINK", res);
-        } catch (Exception e) {
-            Log.e("URILINK", "error in getting response get request okhttp");
-        }
+                    Log.i("Response", String.valueOf(response.body().string()));
+//                    String res = new String(String.valueOf(response.body().string()));
+                    try {
+//                        String.valueOf(res["counts"]);
+                        JSONObject jsonObject = new JSONObject(response.body().string());
+                        Log.i("Response", String.valueOf(jsonObject));
+
+                    } catch (Exception e) {
+                        Log.i("Response", String.valueOf(e));
+                    }
+
+                }
+            }
+
+            @Override
+            public void onFailure(Request request, IOException e) {
+
+            }
+
+        });
 
 
     }

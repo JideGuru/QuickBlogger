@@ -7,12 +7,12 @@
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="login">Sign in to continue</string>
-    <string name="server_client_id"></string>
-    <string name="firebase_url"></string>
+    <string name="server_client_id">1011439056702-pbb0sgm6vm27offe60ir95mj18h8bha7.apps.googleusercontent.com</string>
+    <string name="firebase_url">https://quick-blogger-1.firebaseio.com</string>
 
 
     <string name="blogger_com">Sign up at blogger.com if you dont have an account</string>
-    <string name="goto_blogger_com">Create an Account</string>
+    <string name="goto_blogger_com">Create Account</string>
     <string name="action_sign_in">SIGN IN WITH GOOGLE</string>
     <string name="action_sign_in_short">Sign in </string>
     <string name="permission_rationale">"Contacts permissions are needed for providing email
