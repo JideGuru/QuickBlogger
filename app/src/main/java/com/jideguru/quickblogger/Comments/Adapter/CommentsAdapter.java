@@ -26,7 +26,8 @@ import org.sufficientlysecure.htmltextview.HtmlTextView;
 
 class CommentsViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener, View.OnLongClickListener{
 
-    public TextView nameView, contentView;
+    public TextView nameView;
+    public HtmlTextView contentView;
 
     private ItemClickListener itemClickListener;
 
@@ -34,7 +35,7 @@ class CommentsViewHolder extends RecyclerView.ViewHolder implements View.OnClick
         super(itemView);
 
         nameView = (TextView) itemView.findViewById(R.id.comment_name);
-        contentView = (TextView) itemView.findViewById(R.id.comment_content);
+        contentView = (HtmlTextView) itemView.findViewById(R.id.comment_content);
 
 
         //EVENT
@@ -88,7 +89,7 @@ public class CommentsAdapter extends RecyclerView.Adapter<CommentsViewHolder>{
         String user_name = commentsObject.items.get(position).author.displayName;
         String user_comment = commentsObject.items.get(position).content;
         holder.nameView.setText(user_name);
-        holder.contentView.setText(user_comment);
+        holder.contentView.setHtml(user_comment);
 
 //        holder.setItemClickListener(new ItemClickListener() {
 //            @Override

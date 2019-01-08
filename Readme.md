@@ -38,8 +38,8 @@ Make sure to read the [Blogger Documentation](https://developers.google.com/blog
 - [x] Blogs Lists
 - [x] Posts Lists
 - [x] Blog's Stats
+- [x] All Blog Posts Comments
 - [ ] Blog's pages
-- [ ] All Blog Posts Comments
 - [ ] Add and Edit Blog Posts
 - [ ] Add Pages
 - [ ] Improve app's UI

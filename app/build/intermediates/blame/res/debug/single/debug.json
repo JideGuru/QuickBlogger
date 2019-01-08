@@ -1000,6 +1000,10 @@
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/c718f74d6839f4841ad1a91cf4f8a7b2/res/mipmap-mdpi-v4/linkedin.png"
     },
     {
+        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/layout_row_comments.xml.flat",
+        "source": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/src/main/res/layout/row_comments.xml"
+    },
+    {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
