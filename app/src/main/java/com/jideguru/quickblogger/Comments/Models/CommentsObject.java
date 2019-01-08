@@ -2,7 +2,7 @@ package com.jideguru.quickblogger.Comments.Models;
 
 import java.util.List;
 
-public class RootObject
+public class CommentsObject
 {
     public String kind;
     public String nextPageToken;
