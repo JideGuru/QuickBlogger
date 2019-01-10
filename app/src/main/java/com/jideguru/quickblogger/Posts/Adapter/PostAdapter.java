@@ -22,11 +22,6 @@ import org.jsoup.nodes.Element;
 import es.dmoral.toasty.Toasty;
 
 
-/**
- * Created by jideguru on 10/09/2018.
- */
-
-
 class PostViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener, View.OnLongClickListener{
 
     public TextView titleView, authorView, postsView;

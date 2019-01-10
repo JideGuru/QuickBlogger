@@ -15,11 +15,6 @@ import com.jideguru.quickblogger.MainScreen.MainActivity;
 import com.jideguru.quickblogger.R;
 
 
-/**
- * Created by jideguru on 10/09/2018.
- */
-
-
 class BlogViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener, View.OnLongClickListener{
 
     public TextView nameView, descView, urlView, postsView;

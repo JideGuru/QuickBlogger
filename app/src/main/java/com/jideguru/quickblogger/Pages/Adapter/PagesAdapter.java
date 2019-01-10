@@ -1,38 +1,32 @@
-package com.jideguru.quickblogger.Comments.Adapter;
+package com.jideguru.quickblogger.Pages.Adapter;
 
 import android.content.Context;
-import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-
-import com.jideguru.quickblogger.Blogs.Models.BlogObject;
-import com.jideguru.quickblogger.Comments.Models.CommentsObject;
 import com.jideguru.quickblogger.Interface.ItemClickListener;
-import com.jideguru.quickblogger.MainScreen.MainActivity;
+import com.jideguru.quickblogger.Pages.Models.PageObject;
 import com.jideguru.quickblogger.R;
 
 import org.sufficientlysecure.htmltextview.HtmlTextView;
 
 
 
-
-class CommentsViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener, View.OnLongClickListener{
+class PagesViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener, View.OnLongClickListener{
 
     public TextView nameView;
     public HtmlTextView contentView;
 
     private ItemClickListener itemClickListener;
 
-    public CommentsViewHolder(View itemView) {
+    public PagesViewHolder(View itemView) {
         super(itemView);
 
-        nameView = (TextView) itemView.findViewById(R.id.comment_name);
-        contentView = (HtmlTextView) itemView.findViewById(R.id.comment_content);
+        nameView = (TextView) itemView.findViewById(R.id.page_name);
+        contentView = (HtmlTextView) itemView.findViewById(R.id.page_content);
 
 
         //EVENT
@@ -60,31 +54,31 @@ class CommentsViewHolder extends RecyclerView.ViewHolder implements View.OnClick
     }
 }
 
-public class CommentsAdapter extends RecyclerView.Adapter<CommentsViewHolder>{
+public class PagesAdapter extends RecyclerView.Adapter<PagesViewHolder>{
 
-    private CommentsObject commentsObject;
+    private PageObject pageObject;
     private Context mContext;
     private LayoutInflater inflater;
 
 
-    public CommentsAdapter(CommentsObject commentsObject, Context mContext) {
-        this.commentsObject = commentsObject;
+    public PagesAdapter(PageObject pageObject, Context mContext) {
+        this.pageObject = pageObject;
         this.mContext = mContext;
         inflater = LayoutInflater.from(mContext);
     }
 
     @Override
-    public CommentsViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-        View itemView = inflater.inflate(R.layout.row_comments,parent,false);
-        return new CommentsViewHolder(itemView);
+    public PagesViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+        View itemView = inflater.inflate(R.layout.row_pages,parent,false);
+        return new PagesViewHolder(itemView);
     }
 
     @Override
-    public void onBindViewHolder(CommentsViewHolder holder, int position) {
+    public void onBindViewHolder(PagesViewHolder holder, int position) {
 
 
-        String user_name = commentsObject.items.get(position).author.displayName;
-        String user_comment = commentsObject.items.get(position).content;
+        String user_name = pageObject.items.get(position).title;
+        String user_comment = pageObject.items.get(position).content;
         holder.nameView.setText(user_name);
         holder.contentView.setHtml(user_comment);
 
@@ -104,6 +98,6 @@ public class CommentsAdapter extends RecyclerView.Adapter<CommentsViewHolder>{
 
     @Override
     public int getItemCount() {
-        return commentsObject.items.size();
+        return pageObject.items.size();
     }
 }

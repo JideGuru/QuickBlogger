@@ -2,12 +2,12 @@ package com.jideguru.quickblogger.Pages.Models;
 
 import java.util.List;
 
-public class RootObject {
+public class PageObject {
     public List<Item> items;
     public String kind;
     public String etag;
 
-    public RootObject(List<Item> items, String kind, String etag) {
+    public PageObject(List<Item> items, String kind, String etag) {
         this.items = items;
         this.kind = kind;
         this.etag = etag;
