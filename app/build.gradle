@@ -48,7 +48,6 @@ dependencies {
     implementation 'com.google.apis:google-api-services-blogger:v3-rev61-1.25.0'
     implementation 'com.google.firebase:firebase-auth:16.0.3'
 
-
     //External Libraries
     implementation 'com.squareup.picasso:picasso:2.5.2'
     implementation 'org.jsoup:jsoup:1.11.3'

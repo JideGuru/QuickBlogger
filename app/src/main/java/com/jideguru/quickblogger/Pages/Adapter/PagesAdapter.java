@@ -86,7 +86,7 @@ public class PagesAdapter extends RecyclerView.Adapter<PagesViewHolder>{
 //            @Override
 //            public void onClick(View view, int position, boolean isLongClick) {
 //                if(!isLongClick){
-//                    Intent intent = new Intent (mContext, MainActivity.class);
+//                    Intent intent = new Intent (mContext, BottomNavActivity.class);
 //
 //
 //                    mContext.startActivity(intent);

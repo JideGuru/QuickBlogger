@@ -15,6 +15,9 @@ public class Method {
     public String pref_login = "false";
     private String firstTime = "firstTime";
     public String accessToken = "accessToken";
+    public String userName = "userName";
+    public String userEmail= "userEmail";
+    public String userPhoto = "userPhoto";
 //    public String accessToken = "access_token";
 
     public Method(Activity activity) {

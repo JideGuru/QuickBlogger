@@ -2,18 +2,18 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.jideguru.quickblogger">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:largeHeap="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:largeHeap="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.jideguru.quickblogger.Login.LoginActivity"
+            android:name=".Login.LoginActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,14 +21,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name="com.jideguru.quickblogger.MainScreen.MainActivity">
-            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.jideguru.quickblogger.Blogs.BlogActivity" />
+        <activity android:name=".MainScreen.BottomNavActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.jideguru.quickblogger.Blogs.BlogActivity" />
         </activity>
         <activity
-            android:name="com.jideguru.quickblogger.Blogs.BlogActivity"
-            android:label="@string/pick_blog"
-            />
+            android:name=".Blogs.BlogActivity"
+            android:label="@string/pick_blog" />
+        <activity
+            android:name=".MainScreen.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

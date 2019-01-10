@@ -159,6 +159,9 @@ public class LoginActivity extends AppCompatActivity {
 //                firebaseAuthWithGoogle(account);
 //                String idToken = account.getIdToken();
                 String authCode = account.getServerAuthCode();
+                final String userName = account.getDisplayName();
+                final String userEmail = account.getEmail();
+                final String userPhoto = String.valueOf(account.getPhotoUrl());
 
 //                Log.i("THETOKEN", idToken);
 //                Log.i("THETOKEN1", authCode);
@@ -190,6 +193,9 @@ public class LoginActivity extends AppCompatActivity {
 //                            Log.i("THETOKEN", message);
                             String access_token = jsonObject.getString("access_token");
                             method.editor.putBoolean(method.pref_login, true);
+                            method.editor.putString(method.userName, userName);
+                            method.editor.putString(method.userEmail, userEmail);
+                            method.editor.putString(method.userPhoto, userPhoto);
                             method.editor.putString(method.accessToken, access_token);
                             method.editor.commit();
 

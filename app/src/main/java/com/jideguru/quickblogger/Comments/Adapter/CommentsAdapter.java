@@ -1,19 +1,15 @@
 package com.jideguru.quickblogger.Comments.Adapter;
 
 import android.content.Context;
-import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
 
-import com.jideguru.quickblogger.Blogs.Models.BlogObject;
 import com.jideguru.quickblogger.Comments.Models.CommentsObject;
 import com.jideguru.quickblogger.Interface.ItemClickListener;
-import com.jideguru.quickblogger.MainScreen.MainActivity;
 import com.jideguru.quickblogger.R;
 
 import org.sufficientlysecure.htmltextview.HtmlTextView;
@@ -92,7 +88,7 @@ public class CommentsAdapter extends RecyclerView.Adapter<CommentsViewHolder>{
 //            @Override
 //            public void onClick(View view, int position, boolean isLongClick) {
 //                if(!isLongClick){
-//                    Intent intent = new Intent (mContext, MainActivity.class);
+//                    Intent intent = new Intent (mContext, BottomNavActivity.class);
 //
 //
 //                    mContext.startActivity(intent);

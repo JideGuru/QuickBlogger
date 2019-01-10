@@ -11,6 +11,7 @@ import android.widget.TextView;
 
 import com.jideguru.quickblogger.Blogs.Models.BlogObject;
 import com.jideguru.quickblogger.Interface.ItemClickListener;
+import com.jideguru.quickblogger.MainScreen.BottomNavActivity;
 import com.jideguru.quickblogger.MainScreen.MainActivity;
 import com.jideguru.quickblogger.R;
 
@@ -112,7 +113,7 @@ public class BlogAdapter extends RecyclerView.Adapter<BlogViewHolder>{
 
         String postsLink = blogObject.getItems().get(position).getPosts().selfLink;
         Log.i("Selflink", postsLink);
-        /*Intent pLink = new Intent(mContext, MainActivity.class);
+        /*Intent pLink = new Intent(mContext, BottomNavActivity.class);
         pLink.putExtra("postLink", postsLink);
         mContext.startActivity(pLink);*/
 

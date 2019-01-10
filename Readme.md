@@ -39,7 +39,7 @@ Make sure to read the [Blogger Documentation](https://developers.google.com/blog
 - [x] Posts Lists
 - [x] Blog's Stats
 - [x] All Blog Posts Comments
-- [ ] Blog's pages
+- [x] Blog's pages
 - [ ] Add and Edit Blog Posts
 - [ ] Add Pages
 - [ ] Improve app's UI
