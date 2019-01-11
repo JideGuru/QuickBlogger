@@ -42,6 +42,7 @@ public class BlogActivity extends AppCompatActivity {
 
         method = new Method(BlogActivity.this);
 
+        //Get the access token from shared preferences
         String idToken = method.pref.getString(method.accessToken, null);
         API_LINK = "https://www.googleapis.com/blogger/v3/users/self/blogs?access_token="+idToken;
         Log.i("URILINK", API_LINK);
@@ -61,10 +62,13 @@ public class BlogActivity extends AppCompatActivity {
         recyclerView= (RecyclerView) findViewById(R.id.blog_contain);
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this,LinearLayoutManager.VERTICAL,false);
         recyclerView.setLayoutManager(linearLayoutManager);
+
         loadFeed();
         Log.i("urlink", API_LINK);
     }
 
+
+    //Function to populate data into the BlogAdapter
     private void loadFeed() {
         @SuppressLint("StaticFieldLeak") AsyncTask<String, String, String> loadFeedAsync = new AsyncTask<String, String, String>() {
 

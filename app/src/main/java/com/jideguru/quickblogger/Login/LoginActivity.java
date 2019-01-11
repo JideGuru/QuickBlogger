@@ -78,6 +78,8 @@ public class LoginActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_login);
         ActionBar actionBar = getSupportActionBar();
+
+        //Hide the Toolbar
         actionBar.hide();
 
 
@@ -145,6 +147,8 @@ public class LoginActivity extends AppCompatActivity {
         startActivityForResult(signInIntent, RC_SIGN_IN);
     }
 
+
+    //Get and validate Access Token
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
@@ -191,6 +195,9 @@ public class LoginActivity extends AppCompatActivity {
                             JSONObject jsonObject = new JSONObject(response.body().string());
                             final String message = jsonObject.toString(5);
 //                            Log.i("THETOKEN", message);
+
+                            //Store Access Token and some other values in Shared preferences to
+                            // access and use later
                             String access_token = jsonObject.getString("access_token");
                             method.editor.putBoolean(method.pref_login, true);
                             method.editor.putString(method.userName, userName);
@@ -199,7 +206,7 @@ public class LoginActivity extends AppCompatActivity {
                             method.editor.putString(method.accessToken, access_token);
                             method.editor.commit();
 
-                            Log.i("THETOKEN",access_token);
+//                            Log.i("THETOKEN",access_token);
                         } catch (JSONException e) {
                             e.printStackTrace();
                         }
