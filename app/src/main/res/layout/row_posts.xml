@@ -21,7 +21,7 @@
             <ImageView
                 android:id="@+id/post_thumbnail"
                 android:layout_width="match_parent"
-                android:layout_height="150dp"
+                android:layout_height="100dp"
                 android:adjustViewBounds="true"
                 android:src="@mipmap/ic_launcher"
                 android:scaleType="centerCrop"/>
@@ -30,35 +30,61 @@
             <TextView
                 android:text="Title"
                 android:id="@+id/post_title"
-                android:textSize="20sp"
+                android:textSize="17sp"
                 android:textStyle="bold"
                 android:layout_width="match_parent"
-                android:layout_marginLeft="2dp"
+                android:layout_marginLeft="10dp"
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"/>
 
-
-            <!--<org.sufficientlysecure.htmltextview.HtmlTextView-->
-            <!--android:text="Content"-->
-            <!--android:id="@+id/post_content"-->
-            <!--android:textSize="14sp"-->
-            <!--android:textStyle="italic"-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_marginBottom="4dp"-->
-            <!--android:maxLines="4"-->
-            <!--android:layout_marginLeft="4dp" />-->
 
             <TextView
-                android:text="Author"
-                android:id="@+id/post_author"
-                android:textSize="14sp"
-                android:textStyle="italic"
-                android:layout_width="match_parent"
-                android:layout_marginLeft="4dp"
+            android:text="Content"
+            android:id="@+id/post_content"
+            android:textSize="14sp"
+            android:textStyle="italic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:maxLines="4"
+            android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"/>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="4dp"
-                android:textColor="@color/black"/>
+                android:gravity="center"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginRight="10dp">
+
+
+                <!--<TextView-->
+                    <!--android:id="@+id/status"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:text="Live"-->
+                    <!--android:textColor="@color/white"-->
+                    <!--android:paddingTop="5dp"-->
+                    <!--android:paddingBottom="5dp"-->
+                    <!--android:paddingRight="10dp"-->
+                    <!--android:paddingLeft="10dp"-->
+                    <!--android:background="@color/blue"/>-->
+
+                <TextView
+                    android:text="Author"
+                    android:id="@+id/post_author"
+                    android:textSize="14sp"
+                    android:textStyle="italic"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="4dp"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/blue"
+                    android:layout_marginTop="5dp"
+                    android:gravity="left" />
+
+            </RelativeLayout>
+
 
         </LinearLayout>
         <View
@@ -68,27 +94,26 @@
             android:background="@color/black"
             android:layout_below="@id/fll"/>
 
-        <RelativeLayout
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_below="@id/demac"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:gravity="center">
 
             <Button
                 android:id="@+id/edit_btn"
-                android:layout_width="match_parent"
+                android:layout_width="wrap_content"
                 android:layout_height="40dp"
                 android:text="Edit"
                 android:textColor="@color/black"
-                android:background="@color/white"
-                android:layout_toLeftOf="@id/share_btn"/>
+                android:background="@color/white"/>
 
             <Button
                 android:id="@+id/share_btn"
                 android:layout_width="wrap_content"
                 android:layout_height="40dp"
                 android:text="Share"
-                android:layout_toLeftOf="@id/delete_btn"
                 android:textColor="@color/black"
                 android:background="@color/white"/>
             <Button
@@ -97,9 +122,8 @@
                 android:layout_height="40dp"
                 android:text="Delete"
                 android:textColor="@color/black"
-                android:background="@color/white"
-                android:layout_alignParentRight="true"/>
-        </RelativeLayout>
+                android:background="@color/white"/>
+        </LinearLayout>
 
     </RelativeLayout>
 

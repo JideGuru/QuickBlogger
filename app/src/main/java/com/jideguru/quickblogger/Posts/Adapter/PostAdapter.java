@@ -2,6 +2,7 @@ package com.jideguru.quickblogger.Posts.Adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
+import android.text.Html;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,6 +11,13 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.auth.api.credentials.Credential;
+import com.google.api.client.http.HttpTransport;
+import com.google.api.client.http.javanet.NetHttpTransport;
+import com.google.api.client.json.JsonFactory;
+import com.google.api.client.json.jackson2.JacksonFactory;
+import com.google.api.services.blogger.Blogger;
+import com.google.api.services.blogger.BloggerScopes;
 import com.jideguru.quickblogger.Posts.Models.PostObject;
 import com.jideguru.quickblogger.Interface.ItemClickListener;
 import com.jideguru.quickblogger.R;
@@ -19,12 +27,14 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
+import java.util.Arrays;
+
 import es.dmoral.toasty.Toasty;
 
 
 class PostViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener, View.OnLongClickListener{
 
-    public TextView titleView, authorView, postsView;
+    public TextView titleView, authorView, postsView, contentView, statusView;
 //    public HtmlTextView contentView;
     public ImageView image;
 
@@ -34,10 +44,10 @@ class PostViewHolder extends RecyclerView.ViewHolder implements View.OnClickList
         super(itemView);
 
         titleView = (TextView) itemView.findViewById(R.id.post_title);
-//        contentView = (HtmlTextView) itemView.findViewById(R.id.post_content);
-        //contentView = (TextView) itemView.findViewById(R.id.post_content);
+        contentView = (TextView) itemView.findViewById(R.id.post_content);
         authorView = (TextView) itemView.findViewById(R.id.post_author);
         image = (ImageView) itemView.findViewById(R.id.post_thumbnail);
+//        statusView = itemView.findViewById(R.id.status);
         //postsView = (TextView) itemView.findViewById(R.id.blog_posts);
 
 
@@ -100,11 +110,15 @@ public class PostAdapter extends RecyclerView.Adapter<PostViewHolder>{
 //                        .getContent(),
 //                        new HtmlHttpImageGetter(holder.contentView));
 
-        /*holder.contentView
-                .setText(postObject
-                        .getItems()
-                        .get(position)
-                        .getContent());*/
+        String cont = postObject
+                .getItems()
+                .get(position)
+                .getContent();
+
+
+        String content = Html.fromHtml(cont).toString();
+        holder.contentView
+                .setText(content);
 
         String author = postObject
                 .getItems()
@@ -115,12 +129,11 @@ public class PostAdapter extends RecyclerView.Adapter<PostViewHolder>{
         holder.authorView
                 .setText("Posted by "+author);
 
-        /*holder.postsView
-                .setText(postObject
-                        .getItems()
-                        .get(position)
-                        .getPosts()
-                        .getTotalItems());*/
+//        holder.statusView
+//                .setText(postObject
+//                        .getItems()
+//                        .get(position)
+//                        .st);
 
         try {
             String img = postObject.getItems().get(position).getContent();
@@ -137,6 +150,8 @@ public class PostAdapter extends RecyclerView.Adapter<PostViewHolder>{
             Toasty.error(mContext, "Something went wrong", Toast.LENGTH_SHORT)
                     .show();
         }
+
+
 
         holder.setItemClickListener(new ItemClickListener() {
             @Override

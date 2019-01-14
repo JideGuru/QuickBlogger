@@ -76,12 +76,12 @@
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4_google_play_games.png.flat",
-        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/c718f74d6839f4841ad1a91cf4f8a7b2/res/mipmap-hdpi-v4/google_play_games.png"
-    },
-    {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60abb3b4f5922cfd74adb3dc09271a21/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4_google_play_games.png.flat",
+        "source": "/Users/mac/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.2.3.aar/c718f74d6839f4841ad1a91cf4f8a7b2/res/mipmap-hdpi-v4/google_play_games.png"
     },
     {
         "merged": "/Users/mac/AndroidStudioProjects/QuickBlogger/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
