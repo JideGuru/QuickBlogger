@@ -190,14 +190,31 @@ public class MainActivity extends AppCompatActivity implements
             fragmentTransaction4.commit();
 
         } else if (id == R.id.nav_signout) {
+            finishAffinity();
 
         } else if (id == R.id.nav_share) {
-
+            shareApp();
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
         return true;
+    }
+
+    private void shareApp() {
+
+        try {
+            Intent i = new Intent(Intent.ACTION_SEND);
+            i.setType("text/plain");
+            i.putExtra(Intent.EXTRA_SUBJECT, getResources().getString(R.string.app_name));
+            String sAux = "\n" + "Manage your blogs at your finger tips" + "\n\n";
+            sAux = sAux + "https://play.google.com/store/apps/details?id=" + getApplication().getPackageName();
+            i.putExtra(Intent.EXTRA_TEXT, sAux);
+            startActivity(Intent.createChooser(i, "Choose an Application"));
+        } catch (Exception e) {
+            //e.toString();
+        }
+
     }
 
     @Override
