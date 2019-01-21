@@ -42,6 +42,7 @@ public class BlogActivity extends AppCompatActivity {
 
         method = new Method(BlogActivity.this);
 
+
         //Get the access token from shared preferences
         String idToken = method.pref.getString(method.accessToken, null);
         API_LINK = "https://www.googleapis.com/blogger/v3/users/self/blogs?access_token="+idToken;
