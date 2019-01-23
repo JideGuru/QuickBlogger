@@ -1,4 +1,4 @@
-## Quick Blogger
+## Quick Blogger ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 A mobile app that allows you to manage your Google's blogger dashboard from your phone.
 
