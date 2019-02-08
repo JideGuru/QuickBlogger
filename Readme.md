@@ -50,7 +50,7 @@ Make sure to read the [Blogger's Documentation](https://developers.google.com/bl
 
 # Contributors
 **404 Not Found.**
-You could be found here.
+Contributions are welcome
 
 
 # Disclaimer
