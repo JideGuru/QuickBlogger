@@ -1,4 +1,4 @@
-## Quick Blogger ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+## Quick Blogger ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A mobile app that allows you to manage your Google's blogger dashboard from your phone.
 
@@ -23,7 +23,7 @@ You can also contribute.
 # Usage
 
 **Very Important**
-Make sure to read the [Blogger Documentation](https://developers.google.com/blogger/docs/3.0/) so as to know how to generate [google-services.json](https://developers.google.com/android/guides/google-services-plugin#adding_the_json_file) file and some other things required for this project
+Make sure to read the [Blogger's Documentation](https://developers.google.com/blogger/docs/3.0/) so as to know how to generate [google-services.json](https://developers.google.com/android/guides/google-services-plugin#adding_the_json_file) file and some other things required for this project
 
 1. Fork and clone.
 2. import project to your IDE.
