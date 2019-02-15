@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.jideguru.quickblogger.Blogs.BlogActivity">
+    tools:context="com.jideguru.quickblogger.blogs.BlogActivity">
 
     <android.support.v4.widget.SwipeRefreshLayout
         android:id="@+id/blog_swiperefresh"

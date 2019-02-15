@@ -5,7 +5,7 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.jideguru.quickblogger.MainScreen.BottomNavActivity">
+    tools:context="com.jideguru.quickblogger.mainscreen.BottomNavActivity">
 
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/navigation"
