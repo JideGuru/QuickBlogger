@@ -1,4 +1,4 @@
-## Quick Blogger ![CI status](https://img.shields.io/badge/build-passing-brightgreen.svg) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+## Quick Blogger [![Build Status](https://travis-ci.com/JideGuru/QuickBlogger.svg?branch=master)](https://travis-ci.com/JideGuru/QuickBlogger) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 A mobile app that allows you to manage your Google's blogger dashboard from your phone.
 
